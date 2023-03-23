@@ -1,1 +1,6 @@
 This folder contains the following models:
+
+Variation 1: Triples from SNOMED_CT only
+  filenames: 
+  complex_model_mar16_amia_only_triples
+  transe_model_mar16_amia_only_triples
