@@ -1,6 +1,11 @@
 This folder contains the following models:
 
-Variation 1: Triples from SNOMED_CT only
+Variation 1: Triples from SNOMED-CT only
   filenames: 
   complex_model_mar16_amia_only_triples
   transe_model_mar16_amia_only_triples
+
+Variation 2: Triples from SNOMED-CT plus pain terms from EHR data
+  filenames:
+  complex_model_feb24
+  transe_model_feb24
