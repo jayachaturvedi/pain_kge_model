@@ -1,0 +1,2113 @@
+﻿subject,predicate,object
+Burn injury,subset_includes_concept,Pediatric Terminology
+Burn injury,subset_includes_concept,Pediatric Adverse Events Terminology
+Burn injury,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Burn injury,subset_includes_concept,Patient Problem Codes FDA CDRH
+Burn injury,inverse_isa,Traumatic injury
+Burn injury,inverse_isa,Examination of skin
+Burn injury,inverse_isa,injuries or accidents
+Burn injury,due_to,Myositis ossificans of forearm due to burn
+Burn injury,due_to,Myositis ossificans of shoulder due to burn
+Burn injury,due_to,Myositis ossificans of thigh due to burn
+Burn injury,due_to,Myositis ossificans of hand due to burn
+Burn injury,due_to,Myositis ossificans of ankle due to burn
+Burn injury,due_to,Myositis ossificans of foot due to burn
+Burn injury,due_to,Myositis ossificans of upper arm due to burn
+Burn injury,due_to,Myositis ossificans of lower leg due to burn
+Burn injury,due_to,Burn shock
+Burn injury,due_to,Myositis ossificans associated with burns
+Burn injury,has_focus,Education about burn
+Burn injury,nichd_parent_of,Traumatic injury
+Burn injury,mapped_from,"Burn of unspecified body region, unspecified degree"
+Burn injury,mapped_from,Juvenile osteochondrosis of radius and ulna
+Burn injury,mapped_from,Scalding injury
+Burn injury,mapped_from,Osteochondrosis
+Burn injury,associated_with,burn due to localized fire onboard watercraft
+Burn injury,cdrh_parent_of,Traumatic injury
+Burn injury,possibly_equivalent_to,Burns and scalds
+Burn injury,possibly_equivalent_to,Burns (& [blisters] or [scalds])
+Burn injury,has_associated_finding,History of burn
+Burn injury,has_cdrh_parent,Thermal burn
+Burn injury,has_cdrh_parent,Third degree burn
+Burn injury,has_cdrh_parent,Bowel Burn
+Burn injury,has_cdrh_parent,Radiation burn
+Burn injury,has_cdrh_parent,Burn From Lead
+Burn injury,has_cdrh_parent,Chemical Burns
+Burn injury,has_cdrh_parent,Second degree burn
+Burn injury,has_cdrh_parent,First degree burn
+Burn injury,has_cdrh_parent,Corneal burn
+Burn injury,has_member,Accidents and injuries (SMQ)
+Burn injury,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Burn injury,classifies,Thermal burn
+Burn injury,related_to,Wildfires
+Burn injury,related_to,Electrical Injuries
+Burn injury,related_to,Inhalation injury
+Burn injury,related_to,Fire Safety
+Burn injury,related_to,First Aid
+Burn injury,use,Eye Burns
+Burn injury,use,Chemical Burns
+Burn injury,use,"Burns, Inhalation"
+Burn injury,primary_mapped_from,"Burn of unspecified body region, unspecified degree"
+Colicky Pain,inverse_isa,quality of abdominal pain
+Abdominal Pain,subset_includes_concept,Patient Problem Codes FDA CDRH
+Abdominal Pain,subset_includes_concept,Pediatric Terminology
+Abdominal Pain,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Abdominal Pain,subset_includes_concept,Pediatric Adverse Events Terminology
+Abdominal Pain,inverse_isa,abdominal signs and symptoms
+Abdominal Pain,inverse_isa,Pain
+Abdominal Pain,inverse_isa,Abdominal symptom
+Abdominal Pain,has_focus,observation for undiagnosed abdominal pain
+Abdominal Pain,has_definitional_manifestation,Functional abdominal pain syndrome
+Abdominal Pain,nichd_parent_of,Pain
+Abdominal Pain,nichd_parent_of,"Signs and Symptoms, Digestive"
+Abdominal Pain,evaluation_of,Abdominal pain:Find:Pt:^Patient:Ord:Reported.HIV-SSC
+Abdominal Pain,mapped_from,Abdominal pain/cramps general
+Abdominal Pain,mapped_from,Other and unspecified abdominal pain
+Abdominal Pain,cdrh_parent_of,Pain
+Abdominal Pain,has_manifestation,"COMPLEMENT HYPERACTIVATION, ANGIOPATHIC THROMBOSIS, AND PROTEIN-LOSING ENTEROPATHY"
+Abdominal Pain,has_manifestation,Mitochondrial DNA Depletion Syndrome 1
+Abdominal Pain,has_manifestation,Infundibulopelvic dysgenesis
+Abdominal Pain,has_manifestation,MITOCHONDRIAL DNA DEPLETION SYNDROME 4B (MNGIE TYPE)
+Abdominal Pain,has_manifestation,Inflammatory Bowel Disease 11
+Abdominal Pain,has_manifestation,Hereditary Angioedema Type I
+Abdominal Pain,has_manifestation,"ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY"
+Abdominal Pain,has_manifestation,PAROXYSMAL NOCTURNAL HEMOGLOBINURIA 2
+Abdominal Pain,has_manifestation,Albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells
+Abdominal Pain,has_manifestation,"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 8, WITH EXOCRINE DYSFUNCTION"
+Abdominal Pain,has_manifestation,"HEMOCHROMATOSIS, TYPE 1"
+Abdominal Pain,has_manifestation,"Familial Mediterranean Fever, Autosomal Dominant"
+Abdominal Pain,has_manifestation,"NEUROBLASTOMA, SUSCEPTIBILITY TO"
+Abdominal Pain,has_manifestation,"Lactose Intolerance, Adult Type"
+Abdominal Pain,has_manifestation,Malonic aciduria
+Abdominal Pain,has_manifestation,Familial Mediterranean Fever
+Abdominal Pain,has_manifestation,Ovarian Hyperstimulation Syndrome
+Abdominal Pain,has_manifestation,5-oxoprolinase deficiency
+Abdominal Pain,has_manifestation,Acute intermittent porphyria
+Abdominal Pain,has_manifestation,"alpha, alpha-Trehalase deficiency"
+Abdominal Pain,has_manifestation,Crohn Disease
+Abdominal Pain,has_manifestation,Cronkhite-Canada Syndrome
+Abdominal Pain,has_manifestation,Primary hypomagnesemia (disorder)
+Abdominal Pain,has_manifestation,Fabry Disease
+Abdominal Pain,has_manifestation,Hereditary fructose intolerance syndrome
+Abdominal Pain,has_manifestation,Hyperimmunoglobulinemia D
+Abdominal Pain,has_manifestation,Sitosterolemia
+Abdominal Pain,has_manifestation,Variegate Porphyria
+Abdominal Pain,has_manifestation,Cyclical vomiting syndrome (disorder)
+Abdominal Pain,has_manifestation,"Anemia, Sickle Cell"
+Abdominal Pain,has_associated_finding,No abdominal pain
+Abdominal Pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Abdominal Pain,has_member,"Gastrointestinal perforation, ulcer, haemorrhage, obstruction non-specific findings/procedures (SMQ)"
+Abdominal Pain,has_member,Gastrointestinal ulceration (SMQ)
+Abdominal Pain,has_member,Acute pancreatitis (SMQ)
+Abdominal Pain,has_member,Retroperitoneal fibrosis (SMQ)
+Abdominal Pain,classifies,signs and symptoms of ill-defined conditions
+Abdominal Pain,classifies,Gastrointestinal Pain
+Abdominal Pain,related_to,Pelvic Pain
+Abdominal Pain,related_to,Pain
+Abdominal Pain,related_to,Peritoneal Diseases
+Abdominal Pain,related_to,Stomach Diseases
+Abdominal Pain,related_to,Dyspepsia
+Abdominal Pain,related_to,gastrointestinal gas
+Abdominal Pain,has_defining_characteristic,Latex allergy reaction
+Abdominal Pain,has_defining_characteristic,Dysfunctional gastrointestinal motility
+Abdominal Pain,has_defining_characteristic,Deficient Food Intake
+Abdominal Pain,has_defining_characteristic,Constipation
+Abdominal Pain,has_defining_characteristic,Diarrhea
+Abdominal Pain,has_defining_characteristic,Anxiety
+Abdominal Pain,primary_mapped_from,Other and unspecified abdominal pain
+skin abrasion,subset_includes_concept,Patient Problem Codes FDA CDRH
+skin abrasion,subset_includes_concept,Pediatric Terminology
+skin abrasion,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+skin abrasion,subset_includes_concept,Pediatric Adverse Events Terminology
+skin abrasion,inverse_isa,Traumatic injury
+skin abrasion,nichd_parent_of,Integumentary System Finding
+skin abrasion,cdrh_parent_of,Traumatic injury
+skin abrasion,has_cdrh_parent,Suture abrasion
+Pain,subset_includes_concept,Pediatric Terminology
+Pain,subset_includes_concept,Linear Analogue Self-Assessment
+Pain,subset_includes_concept,Edmonton symptom assessment system
+Pain,subset_includes_concept,Pediatric Immunization Terminology
+Pain,subset_includes_concept,Pediatric Adverse Events Terminology
+Pain,subset_includes_concept,CTRP Terminology
+Pain,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Pain,subset_includes_concept,Patient Problem Codes FDA CDRH
+Pain,inverse_isa,Clinical or Research Assessment Answer
+Pain,inverse_isa,Symptoms
+Pain,inverse_isa,systemic symptoms
+Pain,inverse_isa,General Qualifier
+Pain,inverse_isa,Comfort alteration
+Pain,inverse_isa,Constitutional Symptom
+Pain,due_to,pain interfering with usual activity normal work
+Pain,due_to,pain interfering with usual activity enjoyment of life
+Pain,due_to,pain interfering with usual activity interpersonal relationships
+Pain,due_to,pain interfering with usual activity walking ability
+Pain,due_to,pain interfering with usual activity
+Pain,due_to,pain affecting mood
+Pain,has_focus,Opioid medication review
+Pain,has_focus,Documentation of pain medication action plan
+Pain,has_focus,Management of patient controlled analgesia
+Pain,has_focus,Education about pain
+Pain,has_focus,Pain education
+Pain,has_focus,Implementation of pain guidelines
+Pain,has_focus,Pain control
+Pain,has_focus,Implementation of alternative methods of pain control
+Pain,has_focus,Pain and symptom management
+Pain,has_focus,Identification of cultural and value components related to pain management
+Pain,has_focus,Cancer pain and symptom management
+Pain,has_focus,Pain relief
+Pain,has_focus,Pain rehabilitation
+Pain,has_focus,Minimizing pain
+Pain,has_focus,Preventing pain
+Pain,has_focus,Pain management
+Pain,has_definitional_manifestation,Meralgia paresthetica of left leg
+Pain,has_definitional_manifestation,Phantom pain following excision of eye
+Pain,has_definitional_manifestation,Right trigeminal neuralgia
+Pain,has_definitional_manifestation,Phantom pain following amputation of lower limb
+Pain,has_definitional_manifestation,Phantom pain following amputation of upper limb
+Pain,has_definitional_manifestation,Left trigeminal neuralgia
+Pain,has_definitional_manifestation,Chronic psychogenic pain
+Pain,has_definitional_manifestation,Meralgia paresthetica of right leg
+Pain,has_definitional_manifestation,Phantom pain
+Pain,has_definitional_manifestation,Phantom pain following amputation of penis
+Pain,has_definitional_manifestation,painful nasal mass
+Pain,disease_excludes_finding,Ivory Exostosis
+Pain,disease_excludes_finding,Osteoma of skull
+Pain,disease_excludes_finding,Osteoma
+Pain,disease_excludes_finding,Bone island
+Pain,nichd_parent_of,Sign or Symptom
+Pain,evaluation_of,Pain:-:Point in time:^Patient:-
+Pain,evaluation_of,Pain symptoms:-:Pt:^Patient:Set
+Pain,evaluation_of,Pain:Find:Pt:^Patient:Ord:Observed.CCC
+Pain,has_risk_factor,Risk for delayed surgical recovery
+Pain,has_risk_factor,At risk for disuse syndrome
+Pain,has_risk_factor,At risk for impaired religiosity
+Pain,has_risk_factor,At risk for disorganized infant behavior
+Pain,has_risk_factor,At risk for powerlessness
+Pain,has_risk_factor,At risk for spiritual distress
+Pain,has_risk_factor,At risk for acute confusion
+Pain,mapped_from,Pain Perception
+Pain,mapped_from,General symptom/complaint other
+Pain,mapped_from,Pain management
+Pain,associated_with,varicose veins of bilateral legs with pain
+Pain,associated_with,painful diarrhea
+Pain,associated_with,Displacement of intervertebral disc without myelopathy
+Pain,associated_with,recent decrease in activity due to pain in affected area
+Pain,associated_with,large painful lump under skin
+Pain,associated_with,taking medication for pain
+Pain,associated_with,varicose veins with pain
+Pain,associated_with,Gastrointestinal Pain
+Pain,associated_with,Phantom Limb Syndrome
+Pain,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Pain,possibly_equivalent_to,(Pain) or (C/O: [ache] or [pain])
+Pain,possibly_equivalent_to,Discomforting present pain
+Pain,actual_outcome_of,Worse
+Pain,actual_outcome_of,Improved
+Pain,actual_outcome_of,Stabilized (qualifier value)
+Pain,has_manifestation,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2A2 (disorder)"
+Pain,has_manifestation,Epithelial Recurrent Erosion Dystrophy
+Pain,expected_outcome_of,Worse
+Pain,expected_outcome_of,Improved
+Pain,expected_outcome_of,Stabilized (qualifier value)
+Pain,has_associated_finding,Pain behavior present
+Pain,has_associated_finding,Absence of pain
+Pain,has_cdrh_parent,Intraoperative Pain
+Pain,has_cdrh_parent,Chest Pain
+Pain,has_cdrh_parent,Heartburn
+Pain,has_cdrh_parent,Myalgia
+Pain,has_cdrh_parent,Neck Pain
+Pain,has_cdrh_parent,Arthralgia
+Pain,has_cdrh_parent,Abdominal Pain
+Pain,measures,Assessment of Patient Status Related to Unspecified Pain
+Pain,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Pain,has_member,Symptomatology (PsycINFO Subcluster Term)
+Pain,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Pain,classifies,Residual codes; unclassified; all E codes
+Pain,sign_or_symptom_of,Pain - other
+Pain,sign_or_symptom_of,Facial grimacing
+Pain,sign_or_symptom_of,pallor/perspiration
+Pain,sign_or_symptom_of,compensated movement/guarding
+Pain,sign_or_symptom_of,restless behavior
+Pain,sign_or_symptom_of,expresses discomfort/pain
+Pain,sign_or_symptom_of,elevated pulse/respirations/blood pressure
+Pain,related_to,Chronic pain
+Pain,related_to,Trigeminal Neuralgia
+Pain,related_to,Pelvic Pain
+Pain,related_to,Peripheral Neuropathy
+Pain,related_to,Back Pain
+Pain,related_to,Complex Regional Pain Syndromes
+Pain,related_to,Chest Pain
+Pain,related_to,Dysmenorrhea
+Pain,related_to,Palliative Care
+Pain,related_to,Fibromyalgia
+Pain,related_to,Analgesics
+Pain,related_to,Anesthesia procedures
+Pain,related_to,Abdominal Pain
+Pain,primary_mapped_to,Other general symptoms
+Pain,has_defining_characteristic,Labor Pain
+Pain,has_defining_characteristic,Grief reaction
+Pain,use,Ache
+Pain,use,Nociception
+Neck Pain,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Neck Pain,subset_includes_concept,Patient Problem Codes FDA CDRH
+Neck Pain,inverse_isa,Symptom of neck
+Neck Pain,inverse_isa,"disorders of peripheral nerve, neuromuscular junction and muscle"
+Neck Pain,inverse_isa,Pain
+Neck Pain,mapped_from,Neck symptom/complaint
+Neck Pain,cdrh_parent_of,Pain
+Neck Pain,possibly_equivalent_to,Pain in neck (& [cervical spine])
+Neck Pain,has_manifestation,"Spastic paraplegia 25, autosomal recessive"
+Neck Pain,has_manifestation,"SYRINGOMYELIA, NONCOMMUNICATING ISOLATED"
+Neck Pain,has_manifestation,"Arnold-Chiari Malformation, Type I"
+Neck Pain,has_associated_finding,reported prior neck trouble
+Neck Pain,has_member,Arthritis (SMQ)
+Neck Pain,classifies,Spondylosis; intervertebral disc disorders; other back problems
+Neck Pain,classifies,Other back pain and disorders
+Neck Pain,classifies,Other and unspecified back disorders
+Heartburn,subset_includes_concept,Pediatric Adverse Events Terminology
+Heartburn,subset_includes_concept,Pediatric Terminology
+Heartburn,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Heartburn,subset_includes_concept,Patient Problem Codes FDA CDRH
+Heartburn,inverse_isa,Pain
+Heartburn,inverse_isa,"Signs and Symptoms, Digestive"
+Heartburn,nichd_parent_of,"Signs and Symptoms, Digestive"
+Heartburn,associated_with,taking over-the-counter medication for heartburn
+Heartburn,cdrh_parent_of,Pain
+Heartburn,has_associated_finding,History of heartburn
+Heartburn,has_member,Gastrointestinal nonspecific dysfunction (SMQ)
+Heartburn,classifies,Dyspepsia
+Heartburn,classifies,Other gastrointestinal disorders
+Heartburn,related_to,Dyspepsia
+Heartburn,related_to,Chest Pain
+Heartburn,related_to,Gastroesophageal reflux disease
+Heartburn,has_defining_characteristic,Swallowing problem
+Acute abdominal pain,mapped_from,"Abdomen, Acute"
+Acute abdominal pain,mapped_from,Abdominal pain/cramps general
+Acute chest pain,has_member,Cardiomyopathy (SMQ)
+Acute chest pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Acute chest pain,classifies,Chest Pain
+Acute onset pain,inverse_isa,Pain
+Acute onset pain,inverse_isa,Comfort alteration
+Acute onset pain,inverse_isa,Pain Disorder
+Acute onset pain,has_focus,Acute pain control
+Acute onset pain,evaluation_of,Acute pain:Find:Pt:^Patient:Ord:Observed.CCC
+Acute onset pain,mapped_from,General symptom/complaint other
+Acute onset pain,actual_outcome_of,Improved
+Acute onset pain,actual_outcome_of,Worse
+Acute onset pain,actual_outcome_of,Stabilized (qualifier value)
+Acute onset pain,expected_outcome_of,Improved
+Acute onset pain,expected_outcome_of,Stabilized (qualifier value)
+Acute onset pain,expected_outcome_of,Worse
+Acute onset pain,measures,Assessment of Patient Status Related to Acute Pain
+Acute onset pain,classifies,Pain
+Acute onset pain,primary_mapped_to,Other general symptoms
+Acute onset pain,has_defining_characteristic,Impaired tissue integrity
+Acute onset pain,has_defining_characteristic,Impaired skin integrity
+Acute onset pain,related_factor_of,Trauma - physical agent
+Acute onset pain,related_factor_of,Chemical injury agent
+Acute onset pain,related_factor_of,Biological injury agent
+Acute onset pain,defining_characteristic_of,Positioning to ease pain
+Acute onset pain,defining_characteristic_of,Protective behavior
+Acute onset pain,defining_characteristic_of,Evidence of pain using standardized pain behavior checklist for those unable to communicate verbally
+Acute onset pain,defining_characteristic_of,Self-focused
+Acute onset pain,defining_characteristic_of,Facial expression of pain
+Acute onset pain,defining_characteristic_of,Expressive behavior
+Acute onset pain,defining_characteristic_of,Self-report of pain characteristics using standardized pain instrument
+Acute onset pain,defining_characteristic_of,Altered appetite
+Acute onset pain,defining_characteristic_of,Narrowed focus
+Acute onset pain,defining_characteristic_of,Increased sweating
+Acute onset pain,defining_characteristic_of,Guarding behavior
+Acute onset pain,defining_characteristic_of,Feeling hopeless
+Acute onset pain,defining_characteristic_of,Change in physiological parameter
+Acute onset pain,defining_characteristic_of,Self-report of intensity using standardized pain scale
+Acute onset pain,defining_characteristic_of,Proxy report of pain behavior/activity changes
+Acute onset pain,defining_characteristic_of,Mydriasis
+Acute onset pain,defining_characteristic_of,Distraction behavior
+Anal pain,inverse_isa,Pain
+Anal pain,inverse_isa,Gastrointestinal symptom
+Anal pain,inverse_isa,Gastrointestinal Pain
+Anal pain,mapped_from,Other specified diseases of anus and rectum
+Anal pain,mapped_from,Anal and rectal pains
+Anal pain,classifies,Rectal pain
+Back Pain,subset_includes_concept,Pediatric Terminology
+Back Pain,subset_includes_concept,Pediatric Adverse Events Terminology
+Back Pain,inverse_isa,Abnormality of the vertebral column
+Back Pain,inverse_isa,orthopedic disorders of spine
+Back Pain,inverse_isa,Dorsopathy
+Back Pain,inverse_isa,back symptoms
+Back Pain,inverse_isa,Pain
+Back Pain,has_focus,back pain and function assessed
+Back Pain,has_focus,counseling for supervised exercise program during episode of back pain lasting 12+ weeks
+Back Pain,has_definitional_manifestation,Disorder characterized by back pain
+Back Pain,has_definitional_manifestation,Psychogenic backache
+Back Pain,nichd_parent_of,Pain
+Back Pain,evaluation_of,Back pain:Find:Pt:^Patient:Ord:MDS
+Back Pain,mapped_from,back symptoms
+Back Pain,possibly_equivalent_to,(Backache unspecified) or (back pain unspecified & [acute])
+Back Pain,possibly_equivalent_to,(Backache NOS) or (back pain [& low])
+Back Pain,has_manifestation,"Spastic paraplegia 25, autosomal recessive"
+Back Pain,has_manifestation,Sacral defect and anterior sacral meningocele
+Back Pain,has_manifestation,"MYOPATHY, X-LINKED, WITH POSTURAL MUSCLE ATROPHY (disorder)"
+Back Pain,has_manifestation,"Spondyloepiphyseal dysplasia tarda, Toledo type"
+Back Pain,has_manifestation,Inclusion Body Myopathy with Early-Onset Paget Disease with or without Frontotemporal Dementia 1
+Back Pain,has_manifestation,Alkaptonuria
+Back Pain,has_associated_finding,Family history of backache
+Back Pain,has_associated_finding,History of back pain
+Back Pain,has_associated_finding,No backache
+Back Pain,has_member,Retroperitoneal fibrosis (SMQ)
+Back Pain,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Back Pain,has_member,Symptomatology (PsycINFO Subcluster Term)
+Back Pain,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Back Pain,classifies,Spondylosis; intervertebral disc disorders; other back problems
+Back Pain,classifies,Other and unspecified back disorders
+Back Pain,related_to,Guide to Good Posture
+Back Pain,related_to,Spine Injuries and Disorders
+Back Pain,related_to,Pain
+Back Pain,related_to,science of ergonomics
+Back Pain,related_to,Sciatica
+Back Pain,related_to,Back Injuries
+Back Pain,related_to,"Disk, Herniated"
+Back Pain,related_to,Spinal Stenosis
+Back Pain,related_to,Chiropractic (field)
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, lumbar region"
+Back Pain,primary_mapped_from,"Other dorsalgia, thoracic region"
+Back Pain,primary_mapped_from,"Other dorsalgia, lumbar region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, thoracolumbar region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, cervical region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, occipito-atlanto-axial region"
+Back Pain,primary_mapped_from,"Other dorsalgia, thoracolumbar region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, multiple sites in spine"
+Back Pain,primary_mapped_from,"Other dorsalgia, occipito-atlanto-axial region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, site unspecified"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, cervicothoracic region"
+Back Pain,primary_mapped_from,"Other dorsalgia, cervicothoracic region"
+Back Pain,primary_mapped_from,"Other dorsalgia, cervical region"
+Back Pain,primary_mapped_from,"Other dorsalgia, site unspecified"
+Back Pain,primary_mapped_from,"Other dorsalgia, sacral and sacrococcygeal region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, lumbosacral region"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, thoracic region"
+Back Pain,primary_mapped_from,"Other dorsalgia, lumbosacral region"
+Back Pain,primary_mapped_from,"Other dorsalgia, multiple sites in spine"
+Back Pain,primary_mapped_from,"Unspecified dorsalgia, sacral and sacrococcygeal region"
+Ankle pain,inverse_isa,Arthralgia of the ankle and/or foot
+Ankle pain,inverse_isa,Pain
+Ankle pain,inverse_isa,Symptom of ankle
+Ankle pain,mapped_from,Arthralgia
+Ankle pain,mapped_from,Symptom of ankle
+Ankle pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Ankle pain,possibly_equivalent_to,Arthralgia of the ankle and/or foot
+Ankle pain,has_manifestation,"Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy"
+Ankle pain,has_member,Arthritis (SMQ)
+Ankle pain,classifies,Arthralgia
+Arthralgia,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Arthralgia,subset_includes_concept,Pediatric Terminology
+Arthralgia,subset_includes_concept,Patient Problem Codes FDA CDRH
+Arthralgia,subset_includes_concept,Pediatric Rheumatology Terminology
+Arthralgia,subset_includes_concept,Pediatric Adverse Events Terminology
+Arthralgia,subset_includes_concept,CTRP Terminology
+Arthralgia,inverse_isa,orthopedic disorders
+Arthralgia,inverse_isa,Pain
+Arthralgia,inverse_isa,"neuromuscular, connective tissue, or soft tissue symptoms"
+Arthralgia,nichd_parent_of,Pain
+Arthralgia,nichd_parent_of,Sign or Symptom
+Arthralgia,evaluation_of,Joint pain:Find:Pt:^Patient:Ord:MDS
+Arthralgia,evaluation_of,Painful joints:Find:24H:Musculoskeletal system:Ord:Reported.HIV-SSC
+Arthralgia,associated_with,taking medication for joint pain
+Arthralgia,associated_with,Diffuse pain
+Arthralgia,cdrh_parent_of,Pain
+Arthralgia,possibly_equivalent_to,(Pain in joint) or (coxalgia)
+Arthralgia,possibly_equivalent_to,(Other joint symptoms) or (joint crepitus) or (musculoskeletal pain in joints)
+Arthralgia,has_manifestation,Pierre Robin syndrome with fetal chondrodysplasia
+Arthralgia,has_manifestation,Familial Mediterranean Fever
+Arthralgia,has_manifestation,"AUTOINFLAMMATION, ANTIBODY DEFICIENCY, AND IMMUNE DYSREGULATION, PLCG2-ASSOCIATED"
+Arthralgia,has_manifestation,AUTOINFLAMMATION WITH INFANTILE ENTEROCOLITIS
+Arthralgia,has_manifestation,OTULIN-related autoinflammatory syndrome
+Arthralgia,has_manifestation,"SPONDYLOEPIPHYSEAL DYSPLASIA, STANESCU TYPE"
+Arthralgia,has_manifestation,"Spondyloepimetaphyseal Dysplasia, Irapa Type"
+Arthralgia,has_manifestation,"AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE III"
+Arthralgia,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 4"
+Arthralgia,has_manifestation,Mucolipidosis III Gamma
+Arthralgia,has_manifestation,Nakajo syndrome
+Arthralgia,has_manifestation,"SPONDYLOEPIMETAPHYSEAL DYSPLASIA, DI ROCCO TYPE"
+Arthralgia,has_manifestation,"Familial Mediterranean Fever, Autosomal Dominant"
+Arthralgia,has_manifestation,"HYPERTROPHIC OSTEOARTHROPATHY, PRIMARY, AUTOSOMAL RECESSIVE, 1"
+Arthralgia,has_manifestation,Mevalonic Aciduria
+Arthralgia,has_manifestation,"HEMOCHROMATOSIS, TYPE 4"
+Arthralgia,has_manifestation,"EHLERS-DANLOS SYNDROME, MUSCULOCONTRACTURAL TYPE, 2"
+Arthralgia,has_manifestation,"Necrotizing Encephalomyelopathy, Subacute, of Leigh, Adult"
+Arthralgia,has_manifestation,TNF receptor-associated periodic fever syndrome (TRAPS)
+Arthralgia,has_manifestation,"Spondyloepiphyseal Dysplasia Tarda, X-Linked"
+Arthralgia,has_manifestation,"Hypophosphatemic Rickets, X-Linked Dominant"
+Arthralgia,has_manifestation,"AUTOIMMUNE INTERSTITIAL LUNG, JOINT, AND KIDNEY DISEASE"
+Arthralgia,has_manifestation,"CELIAC DISEASE, SUSCEPTIBILITY TO, 1"
+Arthralgia,has_manifestation,"MICROCEPHALY, CONGENITAL CATARACT, AND PSORIASIFORM DERMATITIS"
+Arthralgia,has_manifestation,"DEAFNESS, AUTOSOMAL DOMINANT 34, WITH OR WITHOUT INFLAMMATION"
+Arthralgia,has_manifestation,"HYPERTROPHIC OSTEOARTHROPATHY, PRIMARY, AUTOSOMAL RECESSIVE, 2"
+Arthralgia,has_manifestation,OSTEOARTHRITIS SUSCEPTIBILITY 3
+Arthralgia,has_manifestation,Hyperimmunoglobulinemia D
+Arthralgia,has_manifestation,Ehlers-Danlos syndrome caused by tenascin-X deficiency
+Arthralgia,has_manifestation,Kniest dysplasia
+Arthralgia,has_manifestation,INTERLEUKIN 1 RECEPTOR ANTAGONIST DEFICIENCY
+Arthralgia,has_manifestation,PAROXYSMAL NOCTURNAL HEMOGLOBINURIA 2
+Arthralgia,has_manifestation,"Czech dysplasia, metatarsal type"
+Arthralgia,has_manifestation,Otospondylomegaepiphyseal dysplasia
+Arthralgia,has_manifestation,Adiposis Dolorosa
+Arthralgia,has_member,Rhabdomyolysis/myopathy (SMQ)
+Arthralgia,has_member,Arthritis (SMQ)
+Arthralgia,classifies,Musculoskeletal discomfort
+Arthralgia,classifies,Other non-traumatic joint disorders
+Polyarthralgia,inverse_isa,localized joint pain
+Polyarthralgia,inverse_isa,Arthralgia
+Polyarthralgia,mapped_from,joint symptom
+Polyarthralgia,mapped_from,Arthralgia
+Polyarthralgia,possibly_equivalent_to,(Joint: [disorder NOS] or [unstable]) or (polyarthralgia)
+Polyarthralgia,has_associated_finding,History of pain of multiple joints
+Polyarthralgia,has_member,Arthritis (SMQ)
+Polyarthralgia,classifies,Arthralgia
+Polyarthralgia,classifies,Other non-traumatic joint disorders
+Arthritis,subset_includes_concept,Pediatric Terminology
+Arthritis,subset_includes_concept,Patient Problem Codes FDA CDRH
+Arthritis,subset_includes_concept,Pediatric Adverse Events Terminology
+Arthritis,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Arthritis,subset_includes_concept,Pediatric Rheumatology Terminology
+Arthritis,inverse_isa,Abnormal joint morphology
+Arthritis,inverse_isa,Arthropathy
+Arthritis,due_to,Calcaneocuboid osteoarthritis secondary to inflammatory arthritis
+Arthritis,due_to,Osteoarthritis of first metatarsophalangeal joint secondary to inflammatory arthritis
+Arthritis,due_to,Osteoarthritis of ankle secondary to inflammatory arthritis
+Arthritis,due_to,Osteoarthritis of midfoot secondary to inflammatory arthritis
+Arthritis,due_to,Subtalar osteoarthritis secondary to inflammatory arthritis
+Arthritis,due_to,Talonavicular osteoarthritis secondary to inflammatory arthritis
+Arthritis,has_focus,"x-rays of both hands, arthritis view"
+Arthritis,has_focus,"x-ray of left hand, arthritis view"
+Arthritis,has_focus,"x-ray of right hand, arthritis view"
+Arthritis,has_focus,Dietary education for arthritis
+Arthritis,has_focus,Arthritis medication review
+Arthritis,has_focus,Education about arthritis
+Arthritis,has_focus,Arthritis screening
+Arthritis,has_focus,"x-ray of hand, arthritis view"
+Arthritis,has_definitional_manifestation,hemochromatosis arthritic
+Arthritis,nichd_parent_of,Musculoskeletal Diseases
+Arthritis,evaluation_of,Arthritis:Find:Pt:^Patient:Ord:MDS
+Arthritis,mapped_from,Osteoarthrosis other
+Arthritis,associated_with,typhoid fever with arthritis
+Arthritis,cdrh_parent_of,Arthropathy
+Arthritis,possibly_equivalent_to,(Arthropathy NOS) or (arthritis)
+Arthritis,possibly_equivalent_to,Polyarthropathy (& [inflammatory]) NOS
+Arthritis,has_manifestation,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET"
+Arthritis,has_manifestation,"Necrotizing Encephalomyelopathy, Subacute, of Leigh, Adult"
+Arthritis,has_manifestation,"IMMUNODEFICIENCY, COMMON VARIABLE, 8, WITH AUTOIMMUNITY"
+Arthritis,has_manifestation,Complement Factor I (C3 inactivator) deficiency
+Arthritis,has_manifestation,Roifman-Chitayat Syndrome
+Arthritis,has_manifestation,"LEUKOENCEPHALOPATHY, ARTHRITIS, COLITIS, AND HYPOGAMMAGLOBULINEMA"
+Arthritis,has_manifestation,"HEMOCHROMATOSIS, TYPE 2A"
+Arthritis,has_manifestation,"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive"
+Arthritis,has_manifestation,"Spondyloepiphyseal Dysplasia Tarda, Autosomal Dominant"
+Arthritis,has_manifestation,"HYPERTROPHIC OSTEOARTHROPATHY, PRIMARY, AUTOSOMAL RECESSIVE, 1"
+Arthritis,has_manifestation,"AUTOIMMUNE INTERSTITIAL LUNG, JOINT, AND KIDNEY DISEASE"
+Arthritis,has_manifestation,"HEMOCHROMATOSIS, TYPE 3"
+Arthritis,has_manifestation,"DEAFNESS, AUTOSOMAL DOMINANT 34, WITH OR WITHOUT INFLAMMATION"
+Arthritis,has_manifestation,Farber Lipogranulomatosis
+Arthritis,has_manifestation,Sitosterolemia
+Arthritis,has_manifestation,"Lupus Erythematosus, Systemic"
+Arthritis,has_manifestation,Hyperimmunoglobulinemia D
+Arthritis,has_associated_finding,Family history of arthritis
+Arthritis,has_associated_finding,H/O: arthritis
+Arthritis,has_associated_finding,Suspected inflammatory arthritis
+Arthritis,has_cdrh_parent,Rheumatoid Arthritis
+Arthritis,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Arthritis,has_member,Arthritis (SMQ)
+Arthritis,has_member,Systemic lupus erythematosus (SMQ)
+Arthritis,related_to,Juvenile rheumatoid arthritis
+Arthritis,related_to,Sjogrens Syndrome
+Arthritis,related_to,Rheumatoid Arthritis
+Arthritis,related_to,"Arthritis, Infectious"
+Arthritis,related_to,"Arthritis, Psoriatic"
+Arthritis,related_to,Fibromyalgia
+Arthritis,related_to,Arthropathy
+Arthritis,related_to,Gout
+Arthritis,related_to,Degenerative polyarthritis
+Arthritis,primary_mapped_to,Arthropathy
+Arthritis,use,rheumatoidlike arthritis
+Arthritis,use,Rheumatism
+Arthritis,use,Periarthritis
+Pain Measurement,subset_includes_concept,CTRP Intervention Terminology
+Pain Measurement,inverse_isa,Medical Examination
+Pain Measurement,has_focus,home care visit for pain assessment
+Pain Measurement,measures,Pain assessment:Prid:Pt:Cancer.XXX:Nom
+Pain Measurement,measures,Pain Assessment:Imp:Pt:^Patient:Ord
+Pain Measurement,has_member,Perceptual Measures (PsycINFO Subcluster Term)
+Pain Measurement,has_member,Diagnosis (PsycINFO Subcluster Term)
+Pain Measurement,classifies,Physical therapy
+Pain Measurement,classifies,Diagnostic physical therapy procedure
+Atypical chest pain,inverse_isa,Chest Pain
+Atypical chest pain,has_manifestation,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 18"
+Stomach ache,inverse_isa,Gastrointestinal Pain
+Stomach ache,inverse_isa,"special symptoms or syndromes, not elsewhere classified in MEDCIN"
+Stomach ache,evaluation_of,Stomach pain:Find:Pt:^Patient:Ord:MDS
+Stomach ache,mapped_from,Upper abdominal pain
+Stomach ache,mapped_from,Epigastric pain
+Stomach ache,associated_with,anxiety with stomach discomfort
+Stomach ache,possibly_equivalent_to,Dyspepsia
+Stomach ache,has_manifestation,Spinocerebellar ataxia 25
+Stomach ache,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Stomach ache,has_member,Retroperitoneal fibrosis (SMQ)
+Stomach ache,has_member,Acute pancreatitis (SMQ)
+Stomach ache,classifies,Upper abdominal pain
+Stomach ache,classifies,Abdominal Pain
+Bladder pain,inverse_isa,Urinary symptoms
+Bladder pain,inverse_isa,Urinary Tract Pain
+Bladder pain,mapped_from,Other and unspecified symptoms and signs involving the urinary system
+Bladder pain,mapped_from,Bladder symptom/complaint other
+Blepharospasm,subset_includes_concept,Pediatric Terminology
+Blepharospasm,subset_includes_concept,Pediatric Adverse Events Terminology
+Blepharospasm,inverse_isa,focal torsion dystonia
+Blepharospasm,inverse_isa,examination of eyelids
+Blepharospasm,inverse_isa,General visual observation
+Blepharospasm,inverse_isa,Abnormal eyelid morphology
+Blepharospasm,inverse_isa,Craniofacial dystonia
+Blepharospasm,nichd_parent_of,Disorder of eye
+Blepharospasm,mapped_from,other neurological disorders
+Blepharospasm,possibly_equivalent_to,(Extrapyramidal disease NOS) or (blepharospasm) or (choreo-athetosis) or (writers cramp - organic) or (myoclonic jerks) or (spasmodic torticollis)
+Blepharospasm,has_manifestation,"DYSTONIA 2, TORSION, AUTOSOMAL RECESSIVE (disorder)"
+Blepharospasm,has_manifestation,"DYSTONIA 1, TORSION, AUTOSOMAL DOMINANT"
+Blepharospasm,has_manifestation,Ceruloplasmin deficiency
+Blepharospasm,has_manifestation,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 29"
+Blepharospasm,has_manifestation,"EPILEPSY, MYOCLONIC, BENIGN ADULT FAMILIAL, TYPE 2"
+Blepharospasm,has_manifestation,"DYSTONIA 26, MYOCLONIC"
+Blepharospasm,has_manifestation,Neuroferritinopathy
+Blepharospasm,has_manifestation,"DYSTONIA 13, TORSION"
+Blepharospasm,has_manifestation,"DYSTONIA 7, TORSION (disorder)"
+Blepharospasm,has_manifestation,DYSTONIA 21
+Blepharospasm,has_manifestation,Hallervorden-Spatz Syndrome
+Blepharospasm,has_member,Dystonia (SMQ)
+Blepharospasm,has_member,Periorbital and eyelid disorders (SMQ)
+Blepharospasm,has_member,Ocular motility disorders (SMQ)
+Blepharospasm,classifies,Other and unspecified hereditary and degenerative nervous conditions
+Blepharospasm,classifies,Hereditary and degenerative nervous system conditions
+Blepharospasm,classifies,Other hereditary and degenerative nervous system conditions
+Burns classified according to percentage of body surface involved,has_member,Accidents and injuries (SMQ)
+Burns classified according to percentage of body surface involved,classifies,Thermal burn
+Bronchospasm,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Bronchospasm,subset_includes_concept,Patient Problem Codes FDA CDRH
+Bronchospasm,subset_includes_concept,Pediatric Terminology
+Bronchospasm,subset_includes_concept,Pediatric Adverse Events Terminology
+Bronchospasm,inverse_isa,respiratory obstructive disorders
+Bronchospasm,inverse_isa,Non-Neoplastic Lung Disorder
+Bronchospasm,inverse_isa,Abnormal bronchus physiology
+Bronchospasm,has_focus,pulmonary stress testing for bronchospasm
+Bronchospasm,has_definitional_manifestation,Acute bronchitis with bronchospasm
+Bronchospasm,has_definitional_manifestation,bronchospasm due to contrast material
+Bronchospasm,nichd_parent_of,Respiratory System Finding
+Bronchospasm,mapped_from,Other respiratory system diseases
+Bronchospasm,mapped_from,"Diseases of bronchus, not elsewhere classified"
+Bronchospasm,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Bronchospasm,possibly_equivalent_to,O/E: [rhonchi present] or [bronchospasm] or [rhonchi]
+Bronchospasm,has_manifestation,Sudden Infant Death with Dysgenesis of the Testes Syndrome
+Bronchospasm,has_member,Anaphylactic reaction (SMQ)
+Bronchospasm,has_member,Hypersensitivity (SMQ)
+Bronchospasm,has_member,Eosinophilic pneumonia (SMQ)
+Bronchospasm,has_member,Asthma/bronchospasm (SMQ)
+Bronchospasm,has_defining_characteristic,Latex allergy reaction
+Burn of the lower limb,inverse_isa,Burn injury
+Burn of the lower limb,mapped_from,Scalding injury
+Burn of the lower limb,mapped_from,"Burn of unspecified degree of hip and lower limb, except ankle and foot"
+Burn of the lower limb,possibly_equivalent_to,Burn leg/foot NOS
+Burn of the lower limb,possibly_equivalent_to,Second degree burn of lower limb
+Burn of the lower limb,possibly_equivalent_to,Third degree burn of lower limb
+Burn of the lower limb,has_member,Accidents and injuries (SMQ)
+Burn of the lower limb,classifies,Thermal burn
+Head burn,inverse_isa,Burn injury
+Head burn,mapped_from,Burn of unspecified degree of head and neck
+Head burn,mapped_from,Scalding injury
+Head burn,possibly_equivalent_to,"Burn of face, head AND/OR neck"
+Burning sensation,subset_includes_concept,Patient Problem Codes FDA CDRH
+Burning sensation,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Burning sensation,inverse_isa,Sensory Manifestations
+Burning sensation,mapped_from,Other and unspecified disturbances of skin sensation
+Burning sensation,mapped_from,Pain/tenderness of skin
+Burning sensation,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Burning sensation,possibly_equivalent_to,Sensation of burning or prickling of skin
+Burning sensation,has_manifestation,"PROTOPORPHYRIA, ERYTHROPOIETIC, 1"
+Burning sensation,has_member,Peripheral neuropathy (SMQ)
+Burning feet,has_member,Peripheral neuropathy (SMQ)
+Burning feet,classifies,Burning sensation
+"Pain, Burning",inverse_isa,Pain
+"Pain, Burning",inverse_isa,Pain character
+"Pain, Burning",associated_with,burning abdominal pain
+"Pain, Burning",classifies,Pain
+Cardiac pain,mapped_from,Pressure/tightness of heart
+Cardiac pain,mapped_from,Precordial pain
+Cardiac pain,has_member,Other ischaemic heart disease (SMQ)
+Cardiac pain,classifies,Angina Pectoris
+Central abdominal pain,has_member,Retroperitoneal fibrosis (SMQ)
+Central abdominal pain,has_member,Acute pancreatitis (SMQ)
+Central abdominal pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Central abdominal pain,classifies,Abdominal Pain
+Chest Pain,subset_includes_concept,Patient Problem Codes FDA CDRH
+Chest Pain,subset_includes_concept,Pediatric Terminology
+Chest Pain,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Chest Pain,subset_includes_concept,Pediatric Adverse Events Terminology
+Chest Pain,inverse_isa,Coronary Artery Disease
+Chest Pain,inverse_isa,Abnormality of the thorax
+Chest Pain,inverse_isa,Cardiovascular symptoms
+Chest Pain,inverse_isa,Pain
+Chest Pain,has_focus,Assessment of chest pain
+Chest Pain,has_focus,patient engagement: chest pain
+Chest Pain,nichd_parent_of,Sign or Symptom
+Chest Pain,associated_with,electrocardiogram: PR segment depressed during chest pain only
+Chest Pain,associated_with,anxiety with chest pain or discomfort
+Chest Pain,associated_with,electrocardiogram: PR segment elevated during chest pain only
+Chest Pain,cdrh_parent_of,Pain
+Chest Pain,possibly_equivalent_to,[D](Chest pain: (unspecified) or (retrosternal))
+Chest Pain,has_manifestation,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10"
+Chest Pain,has_manifestation,"Cardiomyopathy, Familial Hypertrophic, 13"
+Chest Pain,has_manifestation,"PULMONARY ALVEOLAR PROTEINOSIS, ACQUIRED"
+Chest Pain,has_manifestation,Yao syndrome
+Chest Pain,has_manifestation,"Familial Mediterranean Fever, Autosomal Dominant"
+Chest Pain,has_associated_finding,Esophageal balloon distension provocation study
+Chest Pain,has_associated_finding,History of chest pain
+Chest Pain,has_associated_finding,Chest pain not present
+Chest Pain,measures,Chest pain:Finding:Point in time:^Patient:Ordinal
+Chest Pain,has_member,Cardiomyopathy (SMQ)
+Chest Pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Chest Pain,classifies,Heart Diseases
+Chest Pain,related_to,Heartburn
+Chest Pain,related_to,Angina Pectoris
+Chest Pain,related_to,Pain
+Chest Pain,related_to,Thoracic Injuries
+Chest Pain,has_defining_characteristic,Autonomic Dysreflexia
+Chest pain at rest,inverse_isa,factors initiating chest pain
+Pyrophosphate arthritis,possibly_equivalent_to,(Musculoskeletal NOS: [disease] or [disorder]) or (chondrocalcinosis) or (pseudogout)
+Pyrophosphate arthritis,possibly_equivalent_to,(Crystal: [arthropathies] or [arthritis] or [synovitis]) or (chondrocalcinosis) or (pseudogout)
+Pyrophosphate arthritis,has_member,Arthritis (SMQ)
+Pyrophosphate arthritis,classifies,Calcium pyrophosphate deposition disease
+Chronic pain syndrome,inverse_isa,other psychiatric disorders
+Chronic pain syndrome,classifies,Other disorders of nervous system
+Chronic pain syndrome,related_factor_of,To be developed
+Chronic pain syndrome,defining_characteristic_of,Stress overload (finding)
+Chronic pain syndrome,defining_characteristic_of,Impaired mood regulation
+Chronic pain syndrome,defining_characteristic_of,Fatigue
+Chronic pain syndrome,defining_characteristic_of,Sleeplessness
+Chronic pain syndrome,defining_characteristic_of,Constipation
+Chronic pain syndrome,defining_characteristic_of,Deficient knowledge
+Chronic pain syndrome,defining_characteristic_of,Obesity
+Chronic pain syndrome,defining_characteristic_of,Impaired mobility
+Chronic pain syndrome,defining_characteristic_of,Sleep pattern disturbance
+Chronic pain syndrome,defining_characteristic_of,Social isolation
+Chronic pain syndrome,defining_characteristic_of,Fear (Mental Process)
+Chronic pain syndrome,defining_characteristic_of,Anxiety
+Chronic abdominal pain,inverse_isa,pattern of occurrence of abdominal pain
+Chronic abdominal pain,has_member,Acute pancreatitis (SMQ)
+Chronic abdominal pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Chronic abdominal pain,has_member,Retroperitoneal fibrosis (SMQ)
+Chronic abdominal pain,classifies,Abdominal Pain
+Chronic back pain,has_member,Retroperitoneal fibrosis (SMQ)
+Chronic back pain,classifies,Back Pain
+Chronic low back pain,inverse_isa,Low Back Pain
+Chronic pain,subset_includes_concept,Pediatric Adverse Events Terminology
+Chronic pain,subset_includes_concept,Pediatric Terminology
+Chronic pain,inverse_isa,Comfort alteration
+Chronic pain,inverse_isa,Pain
+Chronic pain,inverse_isa,Pain Disorder
+Chronic pain,due_to,Psychosocial dysfunction due to chronic pain
+Chronic pain,has_focus,Chronic pain control
+Chronic pain,has_definitional_manifestation,Fibromyalgia
+Chronic pain,has_definitional_manifestation,Post-mastectomy chronic pain syndrome
+Chronic pain,has_definitional_manifestation,"Fibromyalgia, Primary"
+Chronic pain,nichd_parent_of,Pain
+Chronic pain,evaluation_of,Chronic pain:Find:Pt:^Patient:Ord:Observed.CCC
+Chronic pain,has_risk_factor,At risk for suicide
+Chronic pain,mapped_from,Other chronic pain
+Chronic pain,mapped_from,General symptom/complaint other
+Chronic pain,associated_with,recent emotional stress from chronic pain
+Chronic pain,actual_outcome_of,Worse
+Chronic pain,actual_outcome_of,Improved
+Chronic pain,actual_outcome_of,Stabilized (qualifier value)
+Chronic pain,has_manifestation,Adiposis Dolorosa
+Chronic pain,has_manifestation,Machado-Joseph Disease
+Chronic pain,expected_outcome_of,Worse
+Chronic pain,expected_outcome_of,Stabilized (qualifier value)
+Chronic pain,expected_outcome_of,Improved
+Chronic pain,measures,Assessment of Patient Status Related to Chronic Pain
+Chronic pain,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Chronic pain,has_member,Symptomatology (PsycINFO Subcluster Term)
+Chronic pain,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Chronic pain,classifies,Pain
+Chronic pain,related_to,Analgesics
+Chronic pain,related_to,Pain
+Chronic pain,related_to,Coping with Chronic Illness
+Chronic pain,related_factor_of,Compression injury of nerve
+Chronic pain,related_factor_of,Altered sexuality patterns
+Chronic pain,related_factor_of,Prolonged computer use
+Chronic pain,related_factor_of,Fatigue
+Chronic pain,related_factor_of,Malnutrition
+Chronic pain,related_factor_of,Emotional distress
+Chronic pain,related_factor_of,Whole-body vibration
+Chronic pain,related_factor_of,Increased body mass index
+Chronic pain,related_factor_of,Injury agent
+Chronic pain,related_factor_of,Alteration in sleep pattern
+Chronic pain,related_factor_of,Repeated handling of heavy loads
+Chronic pain,related_factor_of,Social isolation
+Chronic pain,defining_characteristic_of,Alteration in ability to continue previous activities
+Chronic pain,defining_characteristic_of,Self-focused
+Chronic pain,defining_characteristic_of,Alteration in sleep pattern
+Chronic pain,defining_characteristic_of,Anorexia
+Chronic pain,defining_characteristic_of,Proxy report of pain behavior/activity changes
+Chronic pain,defining_characteristic_of,Evidence of pain using standardized pain behavior checklist for those unable to communicate verbally
+Chronic pain,defining_characteristic_of,Facial expression of pain
+Chronic pain,defining_characteristic_of,Self-report of pain characteristics using standardized pain instrument
+Chronic pain,defining_characteristic_of,Self-report of intensity using standardized pain scale
+Intermittent Claudication,inverse_isa,Abnormal arterial physiology
+Intermittent Claudication,inverse_isa,Vascular Diseases
+Intermittent Claudication,has_definitional_manifestation,Monckebergs arteriosclerosis with intermittent claudication
+Intermittent Claudication,has_definitional_manifestation,atherosclerosis of extremity with intermittent claudication
+Intermittent Claudication,mapped_from,Peripheral Vascular Diseases
+Intermittent Claudication,mapped_from,Atherosclerosis/peripheral vascular disease
+Intermittent Claudication,associated_with,cardiovascular surgery result: claudications less severe
+Intermittent Claudication,associated_with,atherosclerosis extremities with intermittent claudication with gangrene
+Intermittent Claudication,associated_with,atherosclerosis of other type of bypass graft of extremities with intermittent claudication
+Intermittent Claudication,associated_with,atherosclerosis of nonbiological bypass graft of extremities with intermittent claudication
+Intermittent Claudication,associated_with,atherosclerosis of nonautologous bypass graft of extremities with intermittent claudication
+Intermittent Claudication,associated_with,atherosclerosis extremities with intermittent claudication without gangrene
+Intermittent Claudication,associated_with,atherosclerosis of an autologous bypass graft of extremities with intermittent claudication
+Intermittent Claudication,associated_with,atherosclerosis of bypass graft of extremities with intermittent claudication
+Intermittent Claudication,associated_with,cardiovascular surgery result: claudications more severe
+Intermittent Claudication,has_manifestation,"Primary hyperoxaluria, type I"
+Intermittent Claudication,has_associated_finding,History of claudication
+Intermittent Claudication,has_member,Arthritis (SMQ)
+Intermittent Claudication,classifies,Neurogenic arthropathy
+Intermittent Claudication,has_defining_characteristic,Ineffective peripheral tissue perfusion
+C/O: a pain,possibly_equivalent_to,(Pain) or (C/O: [ache] or [pain])
+Pain management,subset_includes_concept,CTRP Intervention Terminology
+Pain management,inverse_isa,basic management procedures and services
+Pain management,inverse_isa,Supportive care
+Pain management,inverse_isa,Taking vital signs
+Pain management,has_focus,pain management by positioning
+Pain management,has_focus,Education on non-opioid pain medication
+Pain management,has_focus,pain management by thermal techniques cold therapy
+Pain management,has_focus,pain management by thermal techniques heat therapy
+Pain management,has_focus,pain management by inattention music therapy
+Pain management,has_focus,"Pain Management Profile (13 drugs), urine"
+Pain management,has_focus,home care visit for pain management
+Pain management,has_focus,Control of phantom sensation technique
+Pain management,has_focus,pain management by inattention aromatherapy
+Pain management,has_focus,pain care plan documented
+Pain management,has_focus,home care visit pain management epidural infusion of analgesic
+Pain management,has_focus,home care visit for pain management additional hour
+Pain management,has_focus,pain management by inattention talk therapy
+Pain management,has_focus,home care visit pain management IV infusion of analgesic
+Pain management,has_focus,home care visit pain management subcutaneous injection of analgesic
+Pain management,has_focus,Pain management education
+Pain management,has_focus,Pain control techniques education
+Pain management,has_focus,pain management by massage
+Pain management,has_focus,home care visit pain management intrathecal injection of analgesic
+Pain management,has_focus,Evaluation of response to pain management interventions
+Pain management,evaluation_of,Pain management:-:Point in time:^Patient:-
+Pain management,mapped_from,Analgesia
+Pain management,has_member,Alternative Therapies (PsycINFO Subcluster Term)
+Pain management,has_member,Medical & Physical Treatment (PsycINFO Subcluster Term)
+Pain management,use,electrical masking of pain
+Pain management,use,Electronarcosis
+Pain management,use,Electroanalgesia
+Pain management,use,transcutaneous stimulation
+Cramping pain,inverse_isa,Pain
+Cramping pain,inverse_isa,Pain character
+Muscle Cramp,subset_includes_concept,Pediatric Adverse Events Terminology
+Muscle Cramp,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Muscle Cramp,subset_includes_concept,Patient Problem Codes FDA CDRH
+Muscle Cramp,subset_includes_concept,Pediatric Terminology
+Muscle Cramp,inverse_isa,Musculoskeletal System Finding
+Muscle Cramp,inverse_isa,"neuromuscular, connective tissue, or soft tissue symptoms"
+Muscle Cramp,inverse_isa,Symptoms
+Muscle Cramp,inverse_isa,Abnormality of muscle physiology
+Muscle Cramp,nichd_parent_of,Musculoskeletal System Finding
+Muscle Cramp,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Muscle Cramp,possibly_equivalent_to,Spasm
+Muscle Cramp,has_manifestation,"MYOPATHY WITH EXERCISE INTOLERANCE, SWEDISH TYPE"
+Muscle Cramp,has_manifestation,"MYOPATHY, CENTRONUCLEAR, 6, WITH FIBER-TYPE DISPROPORTION"
+Muscle Cramp,has_manifestation,"Bartter syndrome, antenatal , type 2"
+Muscle Cramp,has_manifestation,"MYASTHENIC SYNDROME, CONGENITAL, 12"
+Muscle Cramp,has_manifestation,"MUSCULAR DYSTROPHY, CONGENITAL, 1C"
+Muscle Cramp,has_manifestation,"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LATE-ONSET"
+Muscle Cramp,has_manifestation,Juvenile Spinal Muscular Atrophy
+Muscle Cramp,has_manifestation,Lactate dehydrogenase deficiency type A
+Muscle Cramp,has_manifestation,"MYASTHENIC SYNDROME, CONGENITAL, ASSOCIATED WITH ACETYLCHOLINE RECEPTOR DEFICIENCY"
+Muscle Cramp,has_manifestation,"NEURONOPATHY, DISTAL HEREDITARY MOTOR, TYPE IID"
+Muscle Cramp,has_manifestation,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Z"
+Muscle Cramp,has_manifestation,AMYOTROPHIC LATERAL SCLEROSIS 1
+Muscle Cramp,has_manifestation,Autosomal recessive limb girdle muscular dystrophy type 2S
+Muscle Cramp,has_manifestation,"HYPOCALCEMIA, AUTOSOMAL DOMINANT 1"
+Muscle Cramp,has_manifestation,"PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL DOMINANT, 6"
+Muscle Cramp,has_manifestation,Machado-Joseph Disease
+Muscle Cramp,has_manifestation,"Angiopathy, Hereditary, With Nephropathy, Aneurysms, And Muscle Cramps"
+Muscle Cramp,has_manifestation,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2F"
+Muscle Cramp,has_manifestation,"Charcot-Marie-Tooth Disease, Dominant Intermediate A"
+Muscle Cramp,has_manifestation,"MYOPATHY, TUBULAR AGGREGATE, 2"
+Muscle Cramp,has_manifestation,PARKINSON DISEASE 17
+Muscle Cramp,has_manifestation,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2P"
+Muscle Cramp,has_manifestation,"Bulbo-Spinal Atrophy, X-Linked"
+Muscle Cramp,has_manifestation,Isaacs syndrome
+Muscle Cramp,has_manifestation,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2I"
+Muscle Cramp,has_manifestation,"HYPOCALCEMIA, AUTOSOMAL DOMINANT 2"
+Muscle Cramp,has_manifestation,"Bartter syndrome, antenatal type 1"
+Muscle Cramp,has_manifestation,"MYOPATHY, VACUOLAR, WITH CASQ1 AGGREGATES"
+Muscle Cramp,has_manifestation,Gitelman Syndrome
+Muscle Cramp,has_manifestation,Fabry Disease
+Muscle Cramp,has_manifestation,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1C"
+Muscle Cramp,has_cdrh_parent,Abdominal Cramps
+Muscle Cramp,has_member,Dystonia (SMQ)
+Muscle Cramp,classifies,Spasm
+Muscle Cramp,related_to,Athletic Injuries
+Muscle Cramp,related_to,Dystonia Disorders
+Muscle Cramp,related_to,Myopathy
+Muscle Cramp,has_defining_characteristic,Diarrhea
+Muscle Cramp,used_for,Myopathy
+Toothache,inverse_isa,Tooth symptoms
+Toothache,inverse_isa,Pain
+Toothache,has_definitional_manifestation,Aerodontalgia
+Toothache,mapped_from,Teeth/gum disease
+Toothache,mapped_from,Other specified disorders of teeth and supporting structures
+Toothache,possibly_equivalent_to,Other specified dental disorder &/or toothache
+Toothache,has_manifestation,"AMELOGENESIS IMPERFECTA, TYPE IH"
+Toothache,has_defining_characteristic,Impaired dentition
+Toothache,used_for,Orofacial Pain
+Diffuse pain,associated_with,Arthralgia
+Diffuse pain,associated_with,diffuse joint pains started suddenly
+Diffuse pain,classifies,Pain
+Dull chest pain,inverse_isa,quality of chest pain
+Dull chest pain,has_member,Anaphylactic reaction (SMQ)
+Dull chest pain,classifies,Chest discomfort
+Dysmenorrhea,subset_includes_concept,Pediatric Terminology
+Dysmenorrhea,subset_includes_concept,Pediatric Adverse Events Terminology
+Dysmenorrhea,inverse_isa,gynecologic pain
+Dysmenorrhea,inverse_isa,Irregular Menstruation
+Dysmenorrhea,inverse_isa,Menstruation Disturbances
+Dysmenorrhea,inverse_isa,menstrual symptoms
+Dysmenorrhea,nichd_parent_of,Endocrine finding
+Dysmenorrhea,possibly_equivalent_to,Dysmenorrhoea (& [non psychogenic] or [congestive] or [spasmodic])
+Dysmenorrhea,possibly_equivalent_to,Spasmodic dysmenorrhea
+Dysmenorrhea,has_associated_finding,H/O: dysmenorrhea
+Dysmenorrhea,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Dysmenorrhea,classifies,Menstruation Disturbances
+Dysmenorrhea,classifies,Female Genital Diseases
+Dysmenorrhea,related_to,Menstruation
+Dysmenorrhea,related_to,Pain
+Dysmenorrhea,used_for,Menstruation Disturbances
+Dysmenorrhea,primary_mapped_from,Primary dysmenorrhea
+Dysmenorrhea,primary_mapped_from,Secondary dysmenorrhea
+Dysuria,subset_includes_concept,Pediatric Terminology
+Dysuria,subset_includes_concept,Patient Problem Codes FDA CDRH
+Dysuria,subset_includes_concept,Pediatric Nephrology Terminology
+Dysuria,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Dysuria,subset_includes_concept,Pediatric Adverse Events Terminology
+Dysuria,inverse_isa,Urinary system finding
+Dysuria,inverse_isa,Functional abnormality of the bladder
+Dysuria,inverse_isa,Urinary symptoms
+Dysuria,inverse_isa,Genitourinary Signs and Symptoms
+Dysuria,nichd_parent_of,Sign or Symptom
+Dysuria,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Dysuria,has_manifestation,Acute intermittent porphyria
+Dysuria,classifies,Genitourinary symptoms and ill-defined conditions
+Dysuria,classifies,Other and unspecified genitourinary symptoms
+Dysuria,classifies,Urologic Diseases
+Dysuria,has_defining_characteristic,Alteration in patterns of urinary elimination
+Dysuria,has_defining_characteristic,Urinary Retention
+Earache,inverse_isa,Ear symptom
+Earache,inverse_isa,Abnormal ear physiology
+Earache,inverse_isa,Ear Diseases
+Earache,inverse_isa,Pain
+Earache,mapped_from,Ear pain/earache
+Earache,has_associated_finding,No earache
+Earache,has_associated_finding,Unilateral earache
+Earache,classifies,Other ear and sense organ disorders
+Earache,classifies,Ear Diseases
+Epigastric pain,inverse_isa,Pain
+Epigastric pain,inverse_isa,Upper abdominal pain
+Epigastric pain,mapped_from,Upper abdominal pain
+Epigastric pain,has_manifestation,"ESOPHAGITIS, EOSINOPHILIC, 1"
+Epigastric pain,has_manifestation,"ESOPHAGITIS, EOSINOPHILIC, 2"
+Epigastric pain,has_member,Acute pancreatitis (SMQ)
+Epigastric pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Epigastric pain,classifies,Abdominal Pain
+Epigastric pain,classifies,Upper abdominal pain
+Epigastric pain,classifies,signs and symptoms of ill-defined conditions
+Epigastric pain,has_defining_characteristic,Swallowing problem
+Chest pain on exertion,inverse_isa,factors initiating chest pain
+Chest pain on exertion,has_member,Cardiomyopathy (SMQ)
+Chest pain on exertion,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Chest pain on exertion,classifies,Chest Pain
+Eye pain,inverse_isa,Disorder of eye
+Eye pain,inverse_isa,Pain
+Eye pain,inverse_isa,Abnormal eye physiology
+Eye pain,inverse_isa,pain in or around eyes
+Eye pain,has_focus,questionnaires vfq-25 ocular pain
+Eye pain,has_definitional_manifestation,Painful blind eye
+Eye pain,has_member,Glaucoma (SMQ)
+Eye pain,classifies,Eye/adnexa disease other
+Eye pain,classifies,Disorder of eye
+Eye pain,primary_mapped_to,pain in or around eyes
+Facial Pain,inverse_isa,Symptom of head
+Facial Pain,inverse_isa,Pain
+Facial Pain,mapped_from,Headache
+Facial Pain,has_manifestation,"SYRINGOMYELIA, NONCOMMUNICATING ISOLATED"
+Facial Pain,has_manifestation,"Arnold-Chiari Malformation, Type I"
+Facial Pain,has_member,Glaucoma (SMQ)
+facial muscle spasm,inverse_isa,Symptom of head
+facial muscle spasm,inverse_isa,Disturbance of facial expression
+facial muscle spasm,mapped_from,Bell Palsy
+facial muscle spasm,mapped_from,Clonic hemifacial spasm
+facial muscle spasm,has_member,Dystonia (SMQ)
+Fibromyalgia,subset_includes_concept,Patient Problem Codes FDA CDRH
+Fibromyalgia,subset_includes_concept,Pediatric Terminology
+Fibromyalgia,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Fibromyalgia,subset_includes_concept,Pediatric Rheumatology Terminology
+Fibromyalgia,inverse_isa,Connective Tissue Diseases
+Fibromyalgia,inverse_isa,Syndrome
+Fibromyalgia,inverse_isa,Non-Neoplastic Soft Tissue Disorder
+Fibromyalgia,inverse_isa,myalgia and myositis
+Fibromyalgia,nichd_parent_of,Musculoskeletal Diseases
+Fibromyalgia,mapped_from,Rheumatism
+Fibromyalgia,mapped_from,Myalgia
+Fibromyalgia,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Fibromyalgia,possibly_equivalent_to,Temporomandibular Joint Dysfunction Syndrome
+Fibromyalgia,possibly_equivalent_to,(Temporomandibular joint dis) or (snapping jaw) or (temporomandibular syndrome)
+Fibromyalgia,possibly_equivalent_to,Rheumatism or fibrositis NOS
+Fibromyalgia,has_manifestation,FRAGILE X TREMOR/ATAXIA SYNDROME
+Fibromyalgia,has_associated_finding,Family history of fibromyalgia
+Fibromyalgia,has_member,Tendinopathies and ligament disorders (SMQ)
+Fibromyalgia,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Fibromyalgia,classifies,Myofascial Pain Syndromes
+Fibromyalgia,classifies,Other connective tissue disease
+Fibromyalgia,related_to,Myopathy
+Fibromyalgia,related_to,Pain
+Fibromyalgia,related_to,Arthritis
+Cluster Headache,subset_includes_concept,Pediatric Terminology
+Cluster Headache,subset_includes_concept,Pediatric Adverse Events Terminology
+Cluster Headache,inverse_isa,Headache
+Cluster Headache,inverse_isa,Headache Disorders
+Cluster Headache,inverse_isa,Trigeminal Autonomic Cephalalgias
+Cluster Headache,nichd_parent_of,Headache
+Cluster Headache,possibly_equivalent_to,(Cluster headaches) or (migrainous neuralgia) or (migraine NOS)
+Cluster Headache,classifies,Migraine Disorders
+Foot pain,inverse_isa,Pain in foot and toes
+Foot pain,inverse_isa,Pain
+Foot pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Foot pain,possibly_equivalent_to,Pain in foot and toes
+Foot pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Foot pain,classifies,Pain in limb
+Fracture pain,has_member,Accidents and injuries (SMQ)
+Frequent headache,has_manifestation,Craniofacial dysostosis type 1
+Frequent headache,classifies,Headache
+Friction burn,possibly_equivalent_to,(Superficial injury) or (abrasions) or (blisters) or (friction burns) or (splinters) or (sting (& without reaction): [bee] or [wasp]) or (bites: [insect - non venomous] or [flea])
+Friction burn,possibly_equivalent_to,Cord burn
+Friction burn,has_member,Accidents and injuries (SMQ)
+Friction burn,classifies,Dermabrasion
+Generalized aches and pains,inverse_isa,Pain
+Generalized aches and pains,mapped_from,Pain
+Generalized aches and pains,classifies,Pain
+Generalized abdominal pain,mapped_from,Other and unspecified abdominal pain
+Generalized abdominal pain,mapped_from,Abdominal pain/cramps general
+Generalized abdominal pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Generalized abdominal pain,has_member,Acute pancreatitis (SMQ)
+Generalized abdominal pain,has_member,Retroperitoneal fibrosis (SMQ)
+Generalized abdominal pain,classifies,Abdominal Pain
+Generalized abdominal pain,classifies,signs and symptoms of ill-defined conditions
+Generalized abdominal pain,primary_mapped_from,"Abdomen, Acute"
+Generalized osteoarthritis,inverse_isa,Degenerative polyarthritis
+Generalized osteoarthritis,mapped_from,Polyarthropathy
+Generalized osteoarthritis,mapped_from,Osteoarthrosis other
+Generalized osteoarthritis,has_member,Arthritis (SMQ)
+Generalized osteoarthritis,classifies,Osteoarthritis; generalized and unspecified
+Generalized osteoarthritis,classifies,Degenerative polyarthritis
+Generalized osteoarthritis,primary_mapped_to,Generalized osteoarthritis of unspecified site
+Generalized osteoarthritis,primary_mapped_from,Polyarthropathy
+Inguinal pain,inverse_isa,groin symptoms
+Inguinal pain,inverse_isa,Pain
+Inguinal pain,mapped_from,Abdominal pain localized other
+Inguinal pain,mapped_from,Pain localized to other parts of lower abdomen
+Inguinal pain,has_member,Osteonecrosis (SMQ)
+Tenderness of gums,inverse_isa,gums symptoms
+Tenderness of gums,inverse_isa,Pain
+Tenderness of gums,has_member,Gingival disorders (SMQ)
+Hand pain,inverse_isa,hand symptoms
+Hand pain,inverse_isa,pain in hand and fingers
+Hand pain,possibly_equivalent_to,Hand pain (& [thumb] or [finger])
+Hand pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Hand pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Hand pain,classifies,Pain in limb
+Hand pain,primary_mapped_to,Pain in limb
+Headache,subset_includes_concept,Patient Problem Codes FDA CDRH
+Headache,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Headache,subset_includes_concept,Pediatric Adverse Events Terminology
+Headache,subset_includes_concept,Pediatric Terminology
+Headache,inverse_isa,Abnormality of nervous system physiology
+Headache,inverse_isa,Symptom of head
+Headache,inverse_isa,Neurologic Symptoms
+Headache,has_focus,stress test-induced headache
+Headache,has_focus,headache disability index questionnaire
+Headache,has_definitional_manifestation,Chronic primary headache
+Headache,has_definitional_manifestation,"Migraine without aura, not refractory"
+Headache,has_definitional_manifestation,Trigeminal Autonomic Cephalalgias
+Headache,has_definitional_manifestation,SUNCT Syndrome
+Headache,has_definitional_manifestation,Transformed migraine
+Headache,has_definitional_manifestation,Allergic migraine
+Headache,has_definitional_manifestation,Intractable ophthalmic migraine
+Headache,has_definitional_manifestation,Common migraine with status migrainosus
+Headache,has_definitional_manifestation,premenstrual headache syndrome
+Headache,has_definitional_manifestation,Headache due to high altitude
+Headache,has_definitional_manifestation,"Migraine variants, not intractable"
+Headache,has_definitional_manifestation,Infrequent episodic tension-type headache
+Headache,has_definitional_manifestation,Hemicrania continua
+Headache,has_definitional_manifestation,Paroxysmal Hemicrania
+Headache,has_definitional_manifestation,New daily persistent headache
+Headache,has_definitional_manifestation,Migraine due to estrogen contraceptive
+Headache,has_definitional_manifestation,Headache following myelography
+Headache,has_definitional_manifestation,Episodic Paroxysmal Hemicrania
+Headache,has_definitional_manifestation,Refractory migraine with aura
+Headache,has_definitional_manifestation,Migraine with persistent visual aura
+Headache,has_definitional_manifestation,Chronic headache disorder
+Headache,has_definitional_manifestation,Intractable headache following trauma
+Headache,has_definitional_manifestation,Refractory migraine variants
+Headache,has_definitional_manifestation,Menstrual status migrainosus
+Headache,has_definitional_manifestation,Intractable chronic tension headache
+Headache,has_definitional_manifestation,Chronic intractable migraine without aura
+Headache,has_definitional_manifestation,Daily headache
+Headache,has_definitional_manifestation,Chronic post-concussion headache
+Headache,has_definitional_manifestation,Stroke co-occurrent with migraine
+Headache,has_definitional_manifestation,Refractory migraine without aura
+Headache,has_definitional_manifestation,Migraine with Typical Aura
+Headache,has_definitional_manifestation,Frequent episodic tension-type headache
+Headache,has_definitional_manifestation,Refractory migraine
+Headache,has_definitional_manifestation,Migraine variant with headache
+Headache,has_definitional_manifestation,Chronic cluster headache evolved from episodic cluster headache
+Headache,has_definitional_manifestation,Post-Lumbar Puncture Headache
+Headache,has_definitional_manifestation,Ophthalmic migraine
+Headache,has_definitional_manifestation,Retinal migraine
+Headache,has_definitional_manifestation,Chronic mixed headache syndrome
+Headache,has_definitional_manifestation,Atypical Cluster Headache
+Headache,has_definitional_manifestation,Migraine with Aura
+Headache,has_definitional_manifestation,Tension Headache
+Headache,has_definitional_manifestation,Chronic Paroxysmal Hemicrania
+Headache,has_definitional_manifestation,Familial Hemiplegic Migraine
+Headache,has_definitional_manifestation,Low pressure headache
+Headache,has_definitional_manifestation,Migraine Disorders
+Headache,has_definitional_manifestation,Spinal and epidural anesthesia-induced headache during labor and delivery
+Headache,has_definitional_manifestation,Episodic Cluster Headache
+Headache,has_definitional_manifestation,Muscular headache
+Headache,has_definitional_manifestation,Post-Dural Puncture Headaches
+Headache,has_definitional_manifestation,Menstrual migraine
+Headache,has_definitional_manifestation,Cluster Headache
+Headache,has_definitional_manifestation,Basilar-Type Migraine
+Headache,has_definitional_manifestation,Hemiplegic migraine
+Headache,has_definitional_manifestation,Migraine with ischemic complication
+Headache,has_definitional_manifestation,Menopausal headache
+Headache,has_definitional_manifestation,Spinal and epidural anesthesia-induced headache during the puerperium
+Headache,has_definitional_manifestation,Non-familial hemiplegic migraine
+Headache,has_definitional_manifestation,Sick Headaches
+Headache,has_definitional_manifestation,Allergic headache
+Headache,has_definitional_manifestation,Hypnic Headache
+Headache,has_definitional_manifestation,Lower half migraine
+Headache,has_definitional_manifestation,Primary Stabbing Headache
+Headache,has_definitional_manifestation,Chronic tension-type headache
+Headache,has_definitional_manifestation,Episodic tension-type headache
+Headache,has_definitional_manifestation,Migraine with Prolonged Aura
+Headache,has_definitional_manifestation,Chronic cluster headache unremitting from onset
+Headache,has_definitional_manifestation,Common Migraine
+Headache,has_definitional_manifestation,Acute Confusional Migraine
+Headache,has_definitional_manifestation,Obstetric spinal and epidural anesthesia-induced headache
+Headache,has_definitional_manifestation,Spinal and epidural anesthesia-induced headache during pregnancy
+Headache,has_definitional_manifestation,Headache Disorders
+Headache,has_definitional_manifestation,Migraine Aura without Headache
+Headache,has_definitional_manifestation,Primary Thunderclap Headache
+Headache,has_definitional_manifestation,Migraine Variant
+Headache,has_definitional_manifestation,Chronic post-traumatic headache
+Headache,has_definitional_manifestation,Ophthalmoplegic Migraine
+Headache,has_definitional_manifestation,Status Migrainosus
+Headache,has_definitional_manifestation,Vascular Headaches
+Headache,has_definitional_manifestation,Hindbrain hernia headache
+Headache,nichd_parent_of,Central Nervous System Signs and Symptoms
+Headache,evaluation_of,Headache:Find:Pt:^Patient:Ord:MDS
+Headache,evaluation_of,Headaches:Find:Pt:^Patient:Ord:NDI
+Headache,mapped_from,Headache Disorders
+Headache,associated_with,taking medication for headaches
+Headache,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Headache,possibly_equivalent_to,C/O - a headache
+Headache,has_manifestation,"ERYTHROCYTOSIS, FAMILIAL, 2"
+Headache,has_manifestation,"Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus"
+Headache,has_manifestation,Episodic ataxia type 1
+Headache,has_manifestation,"DEAFNESS, AUTOSOMAL DOMINANT 34, WITH OR WITHOUT INFLAMMATION"
+Headache,has_manifestation,"Arteritis, Familial Granulomatous, with Juvenile Polyarthritis"
+Headache,has_manifestation,"Erythrocytosis familial, 1"
+Headache,has_manifestation,PAROXYSMAL NOCTURNAL HEMOGLOBINURIA 2
+Headache,has_manifestation,"CHOREOATHETOSIS/SPASTICITY, EPISODIC"
+Headache,has_manifestation,"Enamel Hypoplasia, Cataracts, and Aqueductal Stenosis"
+Headache,has_manifestation,"HYPOMAGNESEMIA 6, RENAL"
+Headache,has_manifestation,"CRANIODIAPHYSEAL DYSPLASIA, AUTOSOMAL DOMINANT (disorder)"
+Headache,has_manifestation,PARIETAL FORAMINA 1
+Headache,has_manifestation,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET"
+Headache,has_manifestation,"CEREBRAL ARTERIOPATHY, AUTOSOMAL DOMINANT, WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY, TYPE 2"
+Headache,has_manifestation,LEUKOENCEPHALOPATHY WITH ATAXIA
+Headache,has_manifestation,Brain calcification Rajab type
+Headache,has_manifestation,"Episodic Ataxia, Type 3"
+Headache,has_manifestation,Cavernous Hemangioma of Brain
+Headache,has_manifestation,"AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED"
+Headache,has_manifestation,"MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 12"
+Headache,has_manifestation,"ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED (HERPES-SPECIFIC), SUSCEPTIBILITY TO, 7"
+Headache,has_manifestation,Sacral defect and anterior sacral meningocele
+Headache,has_manifestation,"OSTEOPETROSIS, AUTOSOMAL DOMINANT 1"
+Headache,has_manifestation,Stormorken Syndrome
+Headache,has_manifestation,Osteopathia striata cranial sclerosis
+Headache,has_manifestation,Neurofibromatosis 2
+Headache,has_manifestation,Camurati-Engelmann Syndrome
+Headache,has_manifestation,Hyperimmunoglobulinemia D
+Headache,has_manifestation,Sneddon Syndrome
+Headache,has_manifestation,NADH cytochrome B5 reductase deficiency
+Headache,has_manifestation,Choroid Plexus Papilloma
+Headache,has_associated_finding,History of headache
+Headache,has_associated_finding,Hemicrania
+Headache,has_associated_finding,No headache
+Headache,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Headache,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Headache,has_member,Symptomatology (PsycINFO Subcluster Term)
+Headache,classifies,Headache; including migraine
+Headache,classifies,other headache
+Headache,related_to,Migraine Disorders
+Headache,related_to,Sinusitis
+Headache,has_defining_characteristic,Caregiver role strain
+Headache,has_defining_characteristic,Constipation
+Headache,has_defining_characteristic,Post-trauma response
+Headache,use,control of headache by self regulation
+Headache,primary_mapped_from,Other specified headache syndromes
+Headache Disorders,inverse_isa,nervous system disorder
+Headache Disorders,inverse_isa,Headache
+Headache Disorders,mapped_from,Headache
+Headache Disorders,mapped_from,Other specified headache syndromes
+Headache Disorders,has_associated_finding,Family history of headache disorder
+Migraine Disorders,subset_includes_concept,Pediatric Terminology
+Migraine Disorders,subset_includes_concept,Pediatric Adverse Events Terminology
+Migraine Disorders,inverse_isa,Neurovascular Disorder
+Migraine Disorders,inverse_isa,Headache
+Migraine Disorders,inverse_isa,Headache Disorders
+Migraine Disorders,due_to,migraine triggered seizures without intractable migraine
+Migraine Disorders,has_focus,Migraine prophylaxis
+Migraine Disorders,nichd_parent_of,Headache
+Migraine Disorders,associated_with,migraine triggered seizures without intractable migraine without status migrainosus
+Migraine Disorders,associated_with,Migraine-triggered seizure
+Migraine Disorders,associated_with,persistent migraine aura with cerebral infarction with intractable migraine with status migrainosus
+Migraine Disorders,associated_with,cyclic vomiting syndrome associated with migraine
+Migraine Disorders,possibly_equivalent_to,(Cluster headaches) or (migrainous neuralgia) or (migraine NOS)
+Migraine Disorders,has_manifestation,"MIGRAINE, FAMILIAL HEMIPLEGIC, 2"
+Migraine Disorders,has_manifestation,"EPISODIC ATAXIA, TYPE 6 (disorder)"
+Migraine Disorders,has_manifestation,"Vasculopathy, Retinal, With Cerebral Leukodystrophy"
+Migraine Disorders,has_manifestation,"Telangiectasia, Hereditary Hemorrhagic, Type 1"
+Migraine Disorders,has_manifestation,Alpha-Methylacyl-CoA Racemase Deficiency
+Migraine Disorders,has_manifestation,"Telangiectasia, Hereditary Hemorrhagic, Type 4"
+Migraine Disorders,has_manifestation,OSLER-RENDU-WEBER SYNDROME 2
+Migraine Disorders,has_manifestation,"Hemiplegic migraine, familial type 1"
+Migraine Disorders,has_manifestation,"Angiomatosis, diffuse corticomeningeal, of Divry and Van Bogaert"
+Migraine Disorders,has_manifestation,Episodic ataxia type 2 (disorder)
+Migraine Disorders,has_manifestation,"Migraine, Familial Hemiplegic, 3"
+Migraine Disorders,has_manifestation,"BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 5"
+Migraine Disorders,has_manifestation,"Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis"
+Migraine Disorders,has_manifestation,"CHOREOATHETOSIS/SPASTICITY, EPISODIC"
+Migraine Disorders,has_manifestation,Facial Hemiatrophy
+Migraine Disorders,has_associated_finding,No history of migraine
+Migraine Disorders,has_associated_finding,FH: Migraine
+Migraine Disorders,has_associated_finding,H/O: migraine
+Migraine Disorders,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Migraine Disorders,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Migraine Disorders,classifies,Headache; including migraine
+Migraine Disorders,related_to,Headache
+Heel pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Heel pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Heel pain,classifies,Pain in limb
+Osteoarthritis of hip,inverse_isa,Degenerative polyarthritis
+Osteoarthritis of hip,possibly_equivalent_to,Degenerative joint disease of pelvic region
+Osteoarthritis of hip,possibly_equivalent_to,Osteoarthritis NOS: [pelvic region and/or thigh] or [hip]
+Osteoarthritis of hip,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 3"
+Osteoarthritis of hip,has_manifestation,Familial Osteochondritis Dissecans
+Osteoarthritis of hip,has_manifestation,Osteopetrosis Autosomal Dominant Type 2
+Osteoarthritis of hip,has_manifestation,LOEYS-DIETZ SYNDROME 3
+Osteoarthritis of hip,has_member,Arthritis (SMQ)
+Osteoarthritis of hip,classifies,Non-traumatic joint disorders
+Osteoarthritis of hip,classifies,Degenerative polyarthritis
+Osteoarthritis of hip,primary_mapped_to,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+Hip joint pain,inverse_isa,Arthralgia
+Hip joint pain,inverse_isa,hip symptoms
+Hip joint pain,inverse_isa,Abnormality of the hip bone
+Hip joint pain,inverse_isa,Bone pain
+Hip joint pain,mapped_from,hip symptoms
+Hip joint pain,mapped_from,Arthralgia
+Hip joint pain,possibly_equivalent_to,(Pain in joint) or (coxalgia)
+Hip joint pain,possibly_equivalent_to,(Arthralgia of the pelvic region and thigh) or (coxalgia) or (hip joint pain) or (irritable hip)
+Hip joint pain,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 6"
+Hip joint pain,has_manifestation,"Epiphyseal Dysplasia, Multiple, with Severe Proximal Femoral Dysplasia"
+Hip joint pain,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 5"
+Hip joint pain,has_member,Arthritis (SMQ)
+Hip joint pain,classifies,Other non-traumatic joint disorders
+Hip joint pain,classifies,Non-traumatic joint disorders
+Hip joint pain,classifies,Arthralgia
+Jaw pain,inverse_isa,Pain
+Jaw pain,inverse_isa,jaw symptoms
+Jaw pain,mapped_from,Teeth/gum disease
+Jaw pain,mapped_from,Other specified diseases of jaws
+Jaw pain,has_manifestation,Primary Erythermalgia
+Jaw pain,has_member,Osteonecrosis (SMQ)
+Jaw pain,classifies,Disorders of teeth and jaw
+Juvenile arthritis,subset_includes_concept,Pediatric Adverse Events Terminology
+Juvenile arthritis,subset_includes_concept,Pediatric Rheumatology Terminology
+Juvenile arthritis,subset_includes_concept,Pediatric Terminology
+Juvenile arthritis,inverse_isa,Arthritis
+Juvenile arthritis,nichd_parent_of,Autoimmune Diseases
+Juvenile arthritis,mapped_from,Seropositive rheumatoid arthritis
+Juvenile arthritis,associated_with,Anterior uveitis in juvenile idiopathic arthritis
+Juvenile arthritis,associated_with,disease activity index clinical juvenile arthritis
+Juvenile arthritis,has_member,Arthritis (SMQ)
+Juvenile arthritis,used_for,Juvenile rheumatoid arthritis
+Renal pain,mapped_from,Renal Colic
+Renal pain,mapped_from,Kidney symptom/complaint
+Renal pain,possibly_equivalent_to,(Pain: [lumbar] or [renal] or [loin]) or (lumbar renal ache)
+"Osteoarthritis, Knee",inverse_isa,Degenerative polyarthritis
+"Osteoarthritis, Knee",inverse_isa,Abnormality of the knee
+"Osteoarthritis, Knee",possibly_equivalent_to,osteoarthrosis of lower leg
+"Osteoarthritis, Knee",possibly_equivalent_to,Osteoarthritis NOS: [lower leg] or [knee]
+"Osteoarthritis, Knee",has_manifestation,LOEYS-DIETZ SYNDROME 3
+"Osteoarthritis, Knee",has_manifestation,"Epiphyseal dysplasia, multiple, 2"
+"Osteoarthritis, Knee",has_member,Arthritis (SMQ)
+"Osteoarthritis, Knee",classifies,Non-traumatic joint disorders
+"Osteoarthritis, Knee",classifies,Degenerative polyarthritis
+Knee pain,inverse_isa,Pain
+Knee pain,inverse_isa,Arthralgia
+Knee pain,inverse_isa,knee symptoms
+Knee pain,mapped_from,Arthralgia
+Knee pain,mapped_from,Knee symptom/complaint
+Knee pain,possibly_equivalent_to,Arthralgia of the lower leg (& [knee])
+Knee pain,has_manifestation,"Epiphyseal Dysplasia, Multiple, with Severe Proximal Femoral Dysplasia"
+Knee pain,has_manifestation,Familial Osteochondritis Dissecans
+Knee pain,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 5"
+Knee pain,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 6"
+Knee pain,has_manifestation,"Vitamin D-Dependent Rickets, Type 2B, With Normal Vitamin D Receptor"
+Knee pain,has_member,Arthritis (SMQ)
+Knee pain,classifies,Arthralgia
+Knee pain,classifies,Non-traumatic joint disorders
+Knee pain,classifies,Other non-traumatic joint disorders
+Pain in left arm,inverse_isa,Arm Pain
+Pain in left arm,has_member,Tendinopathies and ligament disorders (SMQ)
+Pain in left arm,classifies,Other connective tissue disease
+Pain in left arm,classifies,Pain in limb
+Left sided chest pain,has_member,Cardiomyopathy (SMQ)
+Left sided chest pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Left sided chest pain,classifies,Chest Pain
+Cramp in lower leg,possibly_equivalent_to,Cramps of lower extremities
+Cramp in lower leg,possibly_equivalent_to,Cramps: [leg] or [night]
+Pain in lower limb,inverse_isa,Pain in limb
+Pain in lower limb,possibly_equivalent_to,Pain in leg (& [aching leg syndrome])
+Pain in lower limb,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Pain in lower limb,has_manifestation,"Spastic Paraplegia, Hereditary"
+Pain in lower limb,has_manifestation,DYSTONIA 16 (disorder)
+Pain in lower limb,has_manifestation,Camurati-Engelmann Syndrome
+Pain in lower limb,has_member,Tendinopathies and ligament disorders (SMQ)
+Pain in lower limb,classifies,Pain in limb
+Pain in lower limb,classifies,Other connective tissue disease
+Localized pain,inverse_isa,Pain
+Localized pain,classifies,Pain
+Loin pain,mapped_from,Low back symptom/complaint
+Loin pain,mapped_from,Low Back Pain
+Loin pain,possibly_equivalent_to,(Pain: [lumbar] or [renal] or [loin]) or (lumbar renal ache)
+Loin pain,possibly_equivalent_to,Low Back Pain
+Loin pain,has_member,Retroperitoneal fibrosis (SMQ)
+Loin pain,classifies,Back Pain
+Lower abdominal pain,inverse_isa,Site of abdominal pain
+Lower abdominal pain,inverse_isa,Abdominal Pain
+Lower abdominal pain,mapped_from,Anal and rectal pains
+Lower abdominal pain,mapped_from,Abdominal pain localized other
+Lower abdominal pain,mapped_from,Pain localized to other parts of lower abdomen
+Lower abdominal pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Lower abdominal pain,has_member,Retroperitoneal fibrosis (SMQ)
+Lower abdominal pain,classifies,Abdominal Pain
+Lower abdominal pain,classifies,signs and symptoms of ill-defined conditions
+Low Back Pain,inverse_isa,orthopedic disorders of spine
+Low Back Pain,inverse_isa,Back Pain
+Low Back Pain,has_focus,physical exam performed on same date as initial visit for lower back pain
+Low Back Pain,has_focus,Oswestry low back pain disability questionnaire
+Low Back Pain,mapped_from,Low back symptom/complaint
+Low Back Pain,possibly_equivalent_to,(Back pain: [lumbar spine] or [low] or [acute lumbar]) or (lumbalgia) or (lumbago)
+Low Back Pain,possibly_equivalent_to,(Pain: [lumbar] or [renal] or [loin]) or (lumbar renal ache)
+Low Back Pain,possibly_equivalent_to,(Backache NOS) or (back pain [& low])
+Low Back Pain,has_manifestation,"Spastic paraplegia 4, autosomal dominant"
+Low Back Pain,has_manifestation,Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy
+Low Back Pain,has_member,Retroperitoneal fibrosis (SMQ)
+Low Back Pain,classifies,Spondylosis; intervertebral disc disorders; other back problems
+Low Back Pain,classifies,Other and unspecified back disorders
+Low Back Pain,classifies,Back Pain
+Low Back Pain,primary_mapped_from,Lumbago with sciatica
+Pain in lumbar spine,inverse_isa,Pain in spine
+Pain in lumbar spine,possibly_equivalent_to,(Back pain: [lumbar spine] or [low] or [acute lumbar]) or (lumbalgia) or (lumbago)
+Pain in lumbar spine,has_member,Arthritis (SMQ)
+Pain in lumbar spine,classifies,Pain in spine
+Meralgia paresthetica,inverse_isa,Nerve paralysis
+Meralgia paresthetica,mapped_from,Peripheral neuritis/neuropathy
+Meralgia paresthetica,classifies,Other disorders of nervous system
+Meralgia paresthetica,classifies,Peripheral Neuropathy
+Myalgia,subset_includes_concept,Pediatric Adverse Events Terminology
+Myalgia,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Myalgia,subset_includes_concept,Pediatric Rheumatology Terminology
+Myalgia,subset_includes_concept,Pediatric Terminology
+Myalgia,subset_includes_concept,Patient Problem Codes FDA CDRH
+Myalgia,inverse_isa,myalgia and myositis
+Myalgia,inverse_isa,Musculoskeletal System Finding
+Myalgia,inverse_isa,Symptoms
+Myalgia,inverse_isa,"neuromuscular, connective tissue, or soft tissue symptoms"
+Myalgia,inverse_isa,Pain
+Myalgia,nichd_parent_of,Pain
+Myalgia,evaluation_of,Muscle aches:Find:24H:Musculoskeletal system:Ord:Reported.HIV-SSC
+Myalgia,cdrh_parent_of,Pain
+Myalgia,possibly_equivalent_to,(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain)
+Myalgia,has_manifestation,"Myoglobinuria, Acute Recurrent, Autosomal Recessive"
+Myalgia,has_manifestation,"Lipodystrophy, Congenital Generalized, Type 4"
+Myalgia,has_manifestation,Paramyotonia Congenita (disorder)
+Myalgia,has_manifestation,"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LATE-ONSET"
+Myalgia,has_manifestation,Dystrophia myotonica 2
+Myalgia,has_manifestation,"EHLERS-DANLOS SYNDROME, MUSCULOCONTRACTURAL TYPE, 2"
+Myalgia,has_manifestation,"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 4"
+Myalgia,has_manifestation,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2I"
+Myalgia,has_manifestation,Neutral Lipid Storage Disease with Myopathy
+Myalgia,has_manifestation,"Familial Partial Lipodystrophy, Type 2"
+Myalgia,has_manifestation,"MYOPATHY, VACUOLAR, WITH CASQ1 AGGREGATES"
+Myalgia,has_manifestation,Trifunctional Protein Deficiency With Myopathy And Neuropathy
+Myalgia,has_manifestation,Primary Erythermalgia
+Myalgia,has_manifestation,Autosomal recessive limb girdle muscular dystrophy type 2S
+Myalgia,has_manifestation,"MYOPATHY, CENTRONUCLEAR, 4"
+Myalgia,has_manifestation,Idiopathic Hypereosinophilic Syndrome
+Myalgia,has_manifestation,Lactate dehydrogenase deficiency type A
+Myalgia,has_manifestation,"MUSCULAR DYSTROPHY, CONGENITAL, 1C"
+Myalgia,has_manifestation,FRAGILE X TREMOR/ATAXIA SYNDROME
+Myalgia,has_manifestation,Potassium aggravated myotonia
+Myalgia,has_manifestation,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1C"
+Myalgia,has_manifestation,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2L (disorder)"
+Myalgia,has_manifestation,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET"
+Myalgia,has_manifestation,TNF receptor-associated periodic fever syndrome (TRAPS)
+Myalgia,has_manifestation,"MITOCHONDRIAL DNA DEPLETION SYNDROME 12B (CARDIOMYOPATHIC TYPE), AUTOSOMAL RECESSIVE"
+Myalgia,has_manifestation,Becker Generalized Myotonia
+Myalgia,has_manifestation,Adiposis Dolorosa
+Myalgia,has_manifestation,Stormorken Syndrome
+Myalgia,has_manifestation,AUTOINFLAMMATION WITH INFANTILE ENTEROCOLITIS
+Myalgia,has_manifestation,OTULIN-related autoinflammatory syndrome
+Myalgia,has_manifestation,POLYGLUCOSAN BODY MYOPATHY 1 WITH OR WITHOUT IMMUNODEFICIENCY
+Myalgia,has_manifestation,Glycogen Storage Disease XIII
+Myalgia,has_manifestation,"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 3"
+Myalgia,has_manifestation,"MYOPATHY, MITOCHONDRIAL, AND ATAXIA"
+Myalgia,has_manifestation,Glycogen storage disease type X
+Myalgia,has_manifestation,"PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL DOMINANT, 6"
+Myalgia,has_manifestation,Distal Myopathy 1
+Myalgia,has_member,Eosinophilic pneumonia (SMQ)
+Myalgia,has_member,Tendinopathies and ligament disorders (SMQ)
+Myalgia,has_member,Rhabdomyolysis/myopathy (SMQ)
+Myalgia,classifies,Other connective tissue disease
+Myalgia,classifies,Musculoskeletal discomfort
+Spasm,subset_includes_concept,Patient Problem Codes FDA CDRH
+Spasm,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Spasm,inverse_isa,"neuromuscular, connective tissue, or soft tissue symptoms"
+Spasm,inverse_isa,other neurological disorders
+Spasm,inverse_isa,Musculoskeletal System Finding
+Spasm,inverse_isa,Movement Disorders
+Spasm,inverse_isa,Involuntary Movements
+Spasm,has_risk_factor,At risk for autonomic dysreflexia
+Spasm,mapped_from,Seizures
+Spasm,associated_with,muscle spasm in midback
+Spasm,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Spasm,possibly_equivalent_to,"Has ""spasms"""
+Spasm,has_manifestation,"Hypomagnesemia 1, Intestinal"
+Spasm,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Spasm,has_member,Dystonia (SMQ)
+Spasm,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Spasm,has_member,Symptomatology (PsycINFO Subcluster Term)
+Spasm,classifies,Other connective tissue disease
+Spasm,has_defining_characteristic,Rape trauma syndrome
+Spasm,primary_mapped_from,"Contracture of muscle, lower leg"
+Spasm,primary_mapped_from,"Contracture of muscle, forearm"
+Spasm,primary_mapped_from,"Contracture of muscle, hand"
+Spasm,primary_mapped_from,"Contracture of muscle, ankle and foot"
+Spasm,primary_mapped_from,"Contracture of muscle, other site"
+Spasm,primary_mapped_from,Contracture
+Spasm,primary_mapped_from,"Contracture of muscle, pelvic region and thigh"
+Spasm,primary_mapped_from,"Contracture of muscle, multiple sites"
+Spasm,primary_mapped_from,"Contracture of muscle, shoulder region"
+Spasm,primary_mapped_from,"Contracture of muscle, upper arm"
+Musculoskeletal Pain,inverse_isa,Pain
+Musculoskeletal Pain,has_member,Rhabdomyolysis/myopathy (SMQ)
+Musculoskeletal Pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Neuralgia,subset_includes_concept,Pediatric Terminology
+Neuralgia,subset_includes_concept,Pediatric Adverse Events Terminology
+Neuralgia,inverse_isa,Sensory Disorders
+Neuralgia,inverse_isa,Pain
+Neuralgia,inverse_isa,"disorders of peripheral nerve, neuromuscular junction and muscle"
+Neuralgia,nichd_parent_of,Pain
+Neuralgia,mapped_from,"Neuralgia and neuritis, unspecified"
+Neuralgia,mapped_from,other neurological disorders
+Neuralgia,possibly_equivalent_to,"(Neuralgia, neuritis or radiculitis NOS) or (policemans disease)"
+Neuralgia,possibly_equivalent_to,(Neuralgia/neuritis - NOS) or (nerve root pain NEC)
+Neuralgia,has_member,Peripheral neuropathy (SMQ)
+Neuralgia,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Neuralgia,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Neuropathic pain,inverse_isa,Chronic pain
+Neuropathic pain,has_focus,pain level by Neuropathic Pain Scale (NPS)
+Neuropathic pain,has_manifestation,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2O"
+Neuropathic pain,has_member,Peripheral neuropathy (SMQ)
+Neuropathic pain,classifies,Neuralgia
+Cramp in lower leg associated with rest,possibly_equivalent_to,Cramps: [leg] or [night]
+Cramp in lower leg associated with rest,has_member,Dystonia (SMQ)
+Cramp in lower leg associated with rest,classifies,Spasm
+Non-cardiac chest pain,subset_includes_concept,CDISC SDTM Coronary Artery Disease Symptoms Terminology
+Non-cardiac chest pain,subset_includes_concept,CDISC SDTM Terminology
+Non-cardiac chest pain,subset_includes_concept,Clinical Data Interchange Standards Consortium Terminology
+Non-cardiac chest pain,inverse_isa,"special symptoms or syndromes, not elsewhere classified in MEDCIN"
+Non-cardiac chest pain,inverse_isa,Chest Pain
+Non-cardiac chest pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+O/E - painful ear,has_associated_finding,O/E - ear not painful
+Degenerative polyarthritis,subset_includes_concept,CDISC SEND Terminology
+Degenerative polyarthritis,subset_includes_concept,CDISC SEND Non-Neoplastic Finding Type Terminology
+Degenerative polyarthritis,subset_includes_concept,Clinical Data Interchange Standards Consortium Terminology
+Degenerative polyarthritis,inverse_isa,Arthritis
+Degenerative polyarthritis,due_to,Advanced collapse of scapholunate joint due to osteoarthritis
+Degenerative polyarthritis,has_focus,osteoarthritis and functional status assessed
+Degenerative polyarthritis,has_focus,assessment & intervention osteoarthritis assessed
+Degenerative polyarthritis,has_focus,patient engagement: osteoarthritis
+Degenerative polyarthritis,has_focus,Referral to rheumatology service for osteoarthritis
+Degenerative polyarthritis,mapped_from,Osteoarthrosis other
+Degenerative polyarthritis,mapped_from,Arthropathy
+Degenerative polyarthritis,possibly_equivalent_to,Osteoarthritis NOS: [pelvic region and/or thigh] or [hip]
+Degenerative polyarthritis,possibly_equivalent_to,Osteoarthritis NOS: [of the forearm] or [wrist]
+Degenerative polyarthritis,possibly_equivalent_to,Osteoarthritis NOS: [of the upper arm] or [elbow]
+Degenerative polyarthritis,possibly_equivalent_to,Osteoarthritis NOS: [ankle &/or foot] or [toe]
+Degenerative polyarthritis,possibly_equivalent_to,Osteoarthritis NOS: [lower leg] or [knee]
+Degenerative polyarthritis,possibly_equivalent_to,Osteoarthritis NOS: [hand] or [finger] or [thumb]
+Degenerative polyarthritis,possibly_equivalent_to,Proliferative arthritis
+Degenerative polyarthritis,possibly_equivalent_to,Degenerative joint disease of other site
+Degenerative polyarthritis,has_manifestation,"Spondyloepimetaphyseal Dysplasia, Missouri Type"
+Degenerative polyarthritis,has_manifestation,"HEMOCHROMATOSIS, TYPE 4"
+Degenerative polyarthritis,has_manifestation,Satoyoshi syndrome
+Degenerative polyarthritis,has_manifestation,PAGET DISEASE OF BONE 3
+Degenerative polyarthritis,has_manifestation,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 3"
+Degenerative polyarthritis,has_manifestation,PAGET DISEASE OF BONE 6
+Degenerative polyarthritis,has_manifestation,PAGET DISEASE OF BONE 4
+Degenerative polyarthritis,has_manifestation,"EHLERS-DANLOS SYNDROME, CLASSIC-LIKE, 2"
+Degenerative polyarthritis,has_manifestation,"EHLERS-DANLOS SYNDROME, CLASSIC TYPE, 1"
+Degenerative polyarthritis,has_manifestation,Progressive pseudorheumatoid dysplasia
+Degenerative polyarthritis,has_manifestation,Hepatolenticular Degeneration
+Degenerative polyarthritis,has_manifestation,"Spondyloepimetaphyseal Dysplasia, Irapa Type"
+Degenerative polyarthritis,has_manifestation,Calcium pyrophosphate arthropathy
+Degenerative polyarthritis,has_manifestation,Hemophilia A
+Degenerative polyarthritis,has_associated_finding,FH: Osteoarthritis
+Degenerative polyarthritis,has_associated_finding,H/O: osteoarthritis
+Degenerative polyarthritis,has_member,Arthritis (SMQ)
+Degenerative polyarthritis,related_to,Arthropathy
+Degenerative polyarthritis,related_to,Arthritis
+Degenerative polyarthritis,related_to,Rheumatoid Arthritis
+Swallowing painful,inverse_isa,"Signs and Symptoms, Digestive"
+Swallowing painful,inverse_isa,Finding of head and neck region
+Swallowing painful,inverse_isa,Pain
+Swallowing painful,has_member,"Oropharyngeal conditions (excl neoplasms, infections and allergies) (SMQ)"
+Swallowing painful,has_defining_characteristic,Swallowing problem
+Pain in left lower limb,inverse_isa,Pain in lower limb
+Pain in left lower limb,inverse_isa,"Pain in limb, lower leg"
+Pain in left lower limb,classifies,Other connective tissue disease
+Pain in penis,inverse_isa,Pain
+Pain in penis,inverse_isa,penile symptoms
+Pain in penis,mapped_from,Other specified disorders of penis
+"Pain, Referred",classifies,Pain
+Rest pain,has_definitional_manifestation,Pain at rest due to peripheral vascular disease
+Rest pain,associated_with,atherosclerosis extremities with rest pain without gangrene
+Rest pain,associated_with,atherosclerosis extremities with rest pain with gangrene
+Rest pain,associated_with,atherosclerosis of nonbiological bypass graft of extremities with rest pain
+Rest pain,associated_with,Monckebergs arteriosclerosis with rest pain
+Rest pain,associated_with,atherosclerosis of bypass graft of extremities with rest pain
+Rest pain,associated_with,atherosclerosis of other type of bypass graft of extremities with rest pain
+Rest pain,associated_with,atherosclerosis of nonautologous bypass graft of extremities with rest pain
+Rest pain,associated_with,atherosclerosis of an autologous bypass graft of extremities with rest pain
+Rest pain,classifies,Pain
+Pain control,inverse_isa,Pain management
+Pain control,inverse_isa,rnrx sensory
+Pain control,has_focus,Pain control management
+Pain control,has_focus,Pain control education
+Pain control,has_focus,Assessment of pain control
+Pain crisis,inverse_isa,Pain
+Pain crisis,inverse_isa,Event
+Arm Pain,inverse_isa,Pain in limb
+Arm Pain,inverse_isa,Pain
+Arm Pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Arm Pain,has_manifestation,"SYRINGOMYELIA, NONCOMMUNICATING ISOLATED"
+Arm Pain,has_manifestation,"Arnold-Chiari Malformation, Type I"
+Arm Pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Arm Pain,classifies,Pain in limb
+Pain in right arm,inverse_isa,Arm Pain
+Pain in right arm,has_member,Tendinopathies and ligament disorders (SMQ)
+Pain in right arm,classifies,Pain in limb
+Pain in right arm,classifies,Other connective tissue disease
+Pain in right lower limb,inverse_isa,Pain in lower limb
+Pain in right lower limb,inverse_isa,"Pain in limb, lower leg"
+Pain in right lower limb,classifies,Other connective tissue disease
+Shoulder Pain,inverse_isa,Pain
+Shoulder Pain,mapped_from,Shoulder syndrome
+Shoulder Pain,mapped_from,Other shoulder lesions
+Shoulder Pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Shoulder Pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Shoulder Pain,has_member,Rhabdomyolysis/myopathy (SMQ)
+Shoulder Pain,classifies,Musculoskeletal Pain
+Shoulder Pain,classifies,Non-traumatic joint disorders
+Shoulder Pain,classifies,Other non-traumatic joint disorders
+Thigh pain,inverse_isa,thigh symptoms
+Thigh pain,inverse_isa,Pain in lower limb
+Thigh pain,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Thigh pain,has_member,Tendinopathies and ligament disorders (SMQ)
+Thigh pain,classifies,Pain in limb
+Thigh pain,classifies,Other connective tissue disease
+Pain in wrist,inverse_isa,Pain
+Pain in wrist,inverse_isa,Wrist symptom
+Pain in wrist,inverse_isa,Arthralgia
+Pain in wrist,mapped_from,Arthralgia
+Pain in wrist,mapped_from,Wrist symptom
+Pain in wrist,possibly_equivalent_to,Arthralgia of the forearm
+Pain in wrist,possibly_equivalent_to,Arthralgia of the forearm (& [wrist])
+Pain in wrist,has_manifestation,"Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy"
+Pain in wrist,has_member,Arthritis (SMQ)
+Pain in wrist,classifies,Arthralgia
+Pain level,inverse_isa,Vital signs
+Pain Perception,inverse_isa,Esthesia
+Pain Perception,mapped_from,Other and unspecified disturbances of skin sensation
+Pain Perception,mapped_from,Pain/tenderness of skin
+Pain Perception,use,Nociception
+Radiating pain,inverse_isa,Pain
+Radiating pain,associated_with,elbow joint pain radiates to forearm
+Radiating pain,associated_with,elbow joint pain radiates
+Radiating pain,associated_with,neck pain radiating down both arms
+Radiating pain,associated_with,lower back pain radiating to legs
+Radiating pain,associated_with,lower back pain radiating to foot
+Radiating pain,associated_with,neck pain radiating to shoulder
+Radiating pain,associated_with,lower back pain radiating to ankle
+Radiating pain,associated_with,breast pain radiates to axilla
+Radiating pain,associated_with,neck pain radiating to both shoulders
+Radiating pain,associated_with,elbow joint pain radiates to dorsum of wrist
+Radiating pain,associated_with,neck pain radiating down arm
+Radiating pain,associated_with,abdominal pain radiation
+Radiating pain,classifies,Pain
+Pain relief,inverse_isa,Other Finding
+Pain relief,has_focus,birth plan: pain relief
+Pain relief,has_focus,birth plan: pain relief non-medicinal
+Pain relief,has_focus,birth plan: pain relief iv medication
+Pain relief,classifies,Analgesic technique
+Pain score,evaluation_of,Pain score:Score:Pt:^Patient:Qn:HOOS
+Pain score,evaluation_of,Pain score:Score:Pt:^Patient:Qn:KOOS
+Painful cough,has_member,Anaphylactic reaction (SMQ)
+Painful cough,classifies,Coughing
+Tiring with pain,inverse_isa,Pain
+Sinus headache,possibly_equivalent_to,(Frontal headache) or (pain in sinuses)
+Painless,inverse_isa,General Qualifier
+Painless,inverse_isa,Clinical or Research Assessment Answer
+Pain in limb,inverse_isa,Abnormality of skeletal physiology
+Pain in limb,inverse_isa,Pain
+Pain in limb,inverse_isa,musculoskeletal symptoms referable to limbs
+Pain in limb,inverse_isa,"nonspecific pain, swelling, and stiffness"
+Pain in limb,possibly_equivalent_to,Pain in limb (& [ankle] or [arm] or [foot] or [hand] or [heel] or [leg] or [shoulder] or [thigh] or [buttock])
+Pain in limb,has_member,Tendinopathies and ligament disorders (SMQ)
+Pain in limb,classifies,Other connective tissue disease
+Pain in limb,has_defining_characteristic,Ineffective peripheral tissue perfusion
+Pain in limb,primary_mapped_from,"Pain in limb, shoulder region"
+Pain in limb,primary_mapped_from,"Pain in limb, lower leg"
+Pain in limb,primary_mapped_from,"Pain in limb, multiple sites"
+Pain in limb,primary_mapped_from,"Pain in limb, ankle and foot"
+Pain in limb,primary_mapped_from,Pain in forearm
+Pain in limb,primary_mapped_from,Hand pain
+Pain in limb,primary_mapped_from,"Pain in limb, pelvic region and thigh"
+Pain in limb,primary_mapped_from,"Pain in limb, other site"
+Pain in limb,primary_mapped_from,"Pain in limb, upper arm"
+Pain in elbow,inverse_isa,Pain
+Pain in elbow,has_focus,long-term physical therapy goals reduce pain of left elbow to specific level
+Pain in elbow,has_focus,short-term physical therapy goals reduce pain of right elbow to specific level
+Pain in elbow,has_focus,short-term physical therapy goals reduce pain of left elbow to specific level
+Pain in elbow,has_focus,long-term physical therapy goals reduce pain of right elbow to specific level
+Pain in elbow,has_manifestation,Familial Osteochondritis Dissecans
+Pain in elbow,has_member,Arthritis (SMQ)
+Pain in elbow,classifies,Other non-traumatic joint disorders
+Pain in elbow,classifies,Arthralgia
+Pain in elbow,classifies,Non-traumatic joint disorders
+Pelvic Girdle Pain,inverse_isa,back symptoms
+Pelvic Pain,subset_includes_concept,Pediatric Adverse Events Terminology
+Pelvic Pain,subset_includes_concept,Pediatric Terminology
+Pelvic Pain,inverse_isa,Lower abdominal pain
+Pelvic Pain,inverse_isa,Gastrointestinal symptom
+Pelvic Pain,nichd_parent_of,Pain
+Pelvic Pain,mapped_from,Pudendal Neuralgia
+Pelvic Pain,related_to,Pain
+Pelvic Pain,related_to,Abdominal Pain
+Pelvic Pain,related_to,Sexual Problems in Women
+Pleuritic pain,inverse_isa,Pain
+Pleuritic pain,mapped_from,Chest symptom/complaint
+Pleuritic pain,mapped_from,Other chest pain
+Pleuritic pain,has_manifestation,TNF receptor-associated periodic fever syndrome (TRAPS)
+Pleuritic pain,has_member,Infective pneumonia (SMQ)
+Pleuritic pain,classifies,Other lower respiratory disease
+Polymyalgia Rheumatica,inverse_isa,Syndrome
+Polymyalgia Rheumatica,inverse_isa,Collagen Diseases
+Polymyalgia Rheumatica,inverse_isa,inflammatory soft tissue disorders
+Polymyalgia Rheumatica,mapped_from,Osteoarthrosis other
+Polymyalgia Rheumatica,mapped_from,Giant cell arteritis with polymyalgia rheumatica
+Polymyalgia Rheumatica,mapped_from,Arthropathy
+Polymyalgia Rheumatica,mapped_from,Other musculoskeletal disorder
+Polymyalgia Rheumatica,mapped_from,Other and unspecified disorders of the circulatory system
+Polymyalgia Rheumatica,has_associated_finding,History of polymyalgia rheumatica
+Polymyalgia Rheumatica,has_member,Vasculitis (SMQ)
+Polymyalgia Rheumatica,classifies,Other connective tissue disease
+Polymyalgia Rheumatica,related_to,Giant Cell Arteritis
+Polymyalgia Rheumatica,related_to,Vasculitis
+Postherpetic neuralgia,subset_includes_concept,Pediatric Terminology
+Postherpetic neuralgia,subset_includes_concept,Pediatric Adverse Events Terminology
+Postherpetic neuralgia,inverse_isa,Neuralgia
+Postherpetic neuralgia,nichd_parent_of,nervous system disorder
+Postherpetic neuralgia,mapped_from,Bell Palsy
+Postherpetic neuralgia,mapped_from,Herpes zoster disease
+Postherpetic neuralgia,mapped_from,Zoster with other nervous system involvement
+Postherpetic neuralgia,possibly_equivalent_to,Herpes zoster with other central nervous system complication
+Postherpetic neuralgia,primary_mapped_to,Other specified trigeminal nerve disorders
+Postherpetic neuralgia,used_for,Herpes zoster disease
+Rectal pain,inverse_isa,Sore to touch
+Rectal pain,inverse_isa,Gastrointestinal symptom
+Rectal pain,inverse_isa,Gastrointestinal Pain
+Rectal pain,inverse_isa,colorectal disorders
+Rectal pain,mapped_from,Other specified diseases of anus and rectum
+Rectal pain,mapped_from,Anal and rectal pains
+Rectal pain,mapped_from,Disease digestive system other
+Rectal pain,possibly_equivalent_to,Levator syndrome
+Recurrent abdominal pain,has_manifestation,Visceral Myopathy
+Recurrent abdominal pain,has_manifestation,TNF receptor-associated periodic fever syndrome (TRAPS)
+Recurrent abdominal pain,has_manifestation,"CELIAC DISEASE, SUSCEPTIBILITY TO, 1"
+Rheumatism,inverse_isa,Disorder of soft tissue
+Rheumatism,mapped_from,Myalgia
+Rheumatism,possibly_equivalent_to,(Exostosis of unspecified site) or (osteophyte of unspecified site) or (bone spur NOS)
+Rheumatism,possibly_equivalent_to,Rheumatism or fibrositis NOS
+Rheumatism,possibly_equivalent_to,Soft tissue rheumatism
+Rheumatism,has_associated_finding,Family history of rheumatism
+Rheumatism,has_member,Arthritis (SMQ)
+Rheumatism,has_member,Rhabdomyolysis/myopathy (SMQ)
+Rheumatism,classifies,Rheumatic disorder
+Rheumatism,classifies,Other connective tissue disease
+Rheumatism,primary_mapped_to,Rheumatism and fibrositis unspecified
+Rheumatism,use,autoimmune rheumatologic disease
+Rheumatism,used_for,Arthritis
+Rheumatoid Arthritis,subset_includes_concept,Pediatric Terminology
+Rheumatoid Arthritis,subset_includes_concept,Patient Problem Codes FDA CDRH
+Rheumatoid Arthritis,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Rheumatoid Arthritis,subset_includes_concept,Pediatric Rheumatology Terminology
+Rheumatoid Arthritis,inverse_isa,Autoimmune Diseases
+Rheumatoid Arthritis,inverse_isa,Collagen Diseases
+Rheumatoid Arthritis,inverse_isa,Arthritis
+Rheumatoid Arthritis,due_to,Deformity of hand due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Deformity of right foot co-occurrent and due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Deformity of left foot co-occurrent and due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Erosion of joint surface co-occurrent and due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Deformity of foot due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Deformity of left hand co-occurrent and due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Deformity of right hand co-occurrent and due to rheumatoid arthritis
+Rheumatoid Arthritis,due_to,Deformity of wrist due to rheumatoid arthritis
+Rheumatoid Arthritis,has_focus,functional status for rheumatoid arthritis assessed
+Rheumatoid Arthritis,has_focus,functional status in rheumatoid arthritis: class IV
+Rheumatoid Arthritis,has_focus,functional status in rheumatoid arthritis: class III
+Rheumatoid Arthritis,has_focus,functional status in rheumatoid arthritis: class II
+Rheumatoid Arthritis,has_focus,Rheumatoid arthritis screen
+Rheumatoid Arthritis,has_focus,functional status in rheumatoid arthritis: class I
+Rheumatoid Arthritis,nichd_parent_of,Arthritis
+Rheumatoid Arthritis,mapped_from,Arthropathy
+Rheumatoid Arthritis,mapped_from,Osteoarthrosis other
+Rheumatoid Arthritis,mapped_from,Seropositive rheumatoid arthritis
+Rheumatoid Arthritis,associated_with,rheumatoid bursitis hip
+Rheumatoid Arthritis,associated_with,rheumatoid bursitis shoulder
+Rheumatoid Arthritis,associated_with,"Rheumatoid bursitis, hand"
+Rheumatoid Arthritis,associated_with,"Rheumatoid bursitis, ankle and foot"
+Rheumatoid Arthritis,associated_with,rheumatoid bursitis knee
+Rheumatoid Arthritis,associated_with,"Rheumatoid bursitis, multiple sites"
+Rheumatoid Arthritis,associated_with,prev med documented rheumatoid arthritis assessed poor prognosis
+Rheumatoid Arthritis,associated_with,Rheumatoid heart disease with rheumatoid arthritis
+Rheumatoid Arthritis,associated_with,Rheumatoid lung disease with rheumatoid arthritis
+Rheumatoid Arthritis,associated_with,Rheumatoid vasculitis with rheumatoid arthritis
+Rheumatoid Arthritis,associated_with,rheumatoid bursitis vertebrae
+Rheumatoid Arthritis,associated_with,"Rheumatoid bursitis, other site"
+Rheumatoid Arthritis,associated_with,rheumatoid bursitis wrist
+Rheumatoid Arthritis,associated_with,polymyositis in rheumatoid arthritis
+Rheumatoid Arthritis,associated_with,prev med documented rheumatoid arthritis assessed good prognosis
+Rheumatoid Arthritis,associated_with,rheumatoid bursitis elbow
+Rheumatoid Arthritis,associated_with,Rheumatoid bursitis
+Rheumatoid Arthritis,associated_with,Dilated cardiomyopathy secondary to rheumatoid arthritis
+Rheumatoid Arthritis,associated_with,Rheumatoid myocarditis
+Rheumatoid Arthritis,associated_with,Polyneuropathy in rheumatoid arthritis
+Rheumatoid Arthritis,cdrh_parent_of,Arthritis
+Rheumatoid Arthritis,possibly_equivalent_to,Proliferative arthritis
+Rheumatoid Arthritis,possibly_equivalent_to,Degenerative polyarthritis
+Rheumatoid Arthritis,possibly_equivalent_to,Degenerative joint disease of other site
+Rheumatoid Arthritis,has_manifestation,Sjogrens Syndrome
+Rheumatoid Arthritis,has_manifestation,"Arteritis, Familial Granulomatous, with Juvenile Polyarthritis"
+Rheumatoid Arthritis,has_associated_finding,H/O: rheumatoid arthritis
+Rheumatoid Arthritis,has_associated_finding,FH: Rheumatoid arthritis
+Rheumatoid Arthritis,has_member,Arthritis (SMQ)
+Rheumatoid Arthritis,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Rheumatoid Arthritis,classifies,Rheumatoid arthritis and related disease
+Rheumatoid Arthritis,classifies,Non-traumatic joint disorders
+Rheumatoid Arthritis,related_to,Juvenile rheumatoid arthritis
+Rheumatoid Arthritis,related_to,Arthritis
+Rheumatoid Arthritis,related_to,Ankylosing spondylitis
+Rheumatoid Arthritis,related_to,Autoimmune Diseases
+Rheumatoid Arthritis,related_to,Arthropathy
+Rheumatoid Arthritis,related_to,Degenerative polyarthritis
+Rheumatoid Arthritis,use,Ankylosing spondylitis
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, shoulder region"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, multiple sites"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, other site"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, forearm"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, lower leg"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, lower leg"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, ankle and foot"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, forearm"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, multiple sites"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, upper arm"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, multiple sites"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, other site"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, site unspecified"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, ankle and foot"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, forearm"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, lower leg"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, upper arm"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, pelvic region and thigh"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, shoulder region"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, hand"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, hand"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, pelvic region and thigh"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, upper arm"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis with involvement of other organs and systems, pelvic region and thigh"
+Rheumatoid Arthritis,primary_mapped_from,"Distal interphalangeal psoriatic arthropathy, multiple sites"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, hand"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, ankle and foot"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, site unspecified"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid arthritis, unspecified, shoulder region"
+Rheumatoid Arthritis,primary_mapped_from,"Rheumatoid nodule, other site"
+Rheumatoid arthritis of knee,inverse_isa,Rheumatoid Arthritis
+Rheumatoid arthritis of knee,associated_with,Rheumatoid heart disease with rheumatoid arthritis of knee
+Rheumatoid arthritis of knee,associated_with,inflammatory myopathy secondary to rheumatoid arthritis of knee
+Rheumatoid arthritis of knee,associated_with,Rheumatoid vasculitis with rheumatoid arthritis of knee
+Rib pain,inverse_isa,Bone pain
+Rib pain,mapped_from,Other chest pain
+Rib pain,mapped_from,Chest symptom/complaint
+Rib pain,classifies,Musculoskeletal chest pain
+Right upper quadrant pain,inverse_isa,Upper abdominal pain
+Right upper quadrant pain,has_member,Acute pancreatitis (SMQ)
+Right upper quadrant pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Right upper quadrant pain,classifies,Abdominal Pain
+Right upper quadrant pain,classifies,signs and symptoms of ill-defined conditions
+Right upper quadrant pain,classifies,Upper abdominal pain
+Right upper quadrant pain,primary_mapped_from,Upper abdominal pain
+Sciatica,inverse_isa,Back Pain
+Sciatica,inverse_isa,"disorders of peripheral nerve, neuromuscular junction and muscle"
+Sciatica,mapped_from,Back syndrome with radiating pain
+Sciatica,possibly_equivalent_to,Acute back pain &/or sciatica
+Sciatica,classifies,Spondylosis; intervertebral disc disorders; other back problems
+Sciatica,classifies,Other and unspecified back disorders
+Sciatica,related_to,Peripheral Neuropathy
+Sciatica,related_to,Back Pain
+Sciatica,related_to,"Disk, Herniated"
+"Arthritis, Bacterial",subset_includes_concept,Pediatric Infectious Disease Terminology
+"Arthritis, Bacterial",subset_includes_concept,Pediatric Terminology
+"Arthritis, Bacterial",inverse_isa,Acute bacterial arthritis
+"Arthritis, Bacterial",inverse_isa,"Arthritis, Infectious"
+"Arthritis, Bacterial",nichd_parent_of,Arthritis
+"Arthritis, Bacterial",nichd_parent_of,Bacterial Infections
+"Arthritis, Bacterial",mapped_from,"Arthritis, Infectious"
+"Arthritis, Bacterial",mapped_from,Infections of musculoskeletal system
+"Arthritis, Bacterial",has_member,Arthritis (SMQ)
+Seronegative rheumatoid arthritis,mapped_from,Seropositive rheumatoid arthritis
+Seronegative rheumatoid arthritis,has_member,Arthritis (SMQ)
+Seronegative rheumatoid arthritis,classifies,Rheumatoid Arthritis
+Sharp pain,inverse_isa,Pain character
+Sharp pain,inverse_isa,Pain
+Sharp pain,associated_with,"chest pain sudden, sharp, and tearing"
+Sharp pain,associated_with,sharp abdominal pain
+Sharp pain,associated_with,sharp flank pain
+Shooting pain,inverse_isa,Pain
+Shooting pain,inverse_isa,"neuromuscular, connective tissue, or soft tissue symptoms"
+Shooting pain,classifies,Pain
+Bone pain,inverse_isa,"nonspecific pain, swelling, and stiffness"
+Bone pain,inverse_isa,Pain
+Bone pain,inverse_isa,Abnormality of skeletal physiology
+Bone pain,disease_excludes_finding,Indolent multiple myeloma
+Bone pain,disease_excludes_finding,Smoldering myeloma
+Bone pain,evaluation_of,Bone pain:Find:Pt:^Patient:Ord:MDS
+Bone pain,mapped_from,Other musculoskeletal disorder
+Bone pain,mapped_from,Other specified disorders of bone
+Bone pain,has_manifestation,"Gaucher Disease, Type 1"
+Bone pain,has_manifestation,"Hypophosphatemic Rickets, X-Linked Dominant"
+Bone pain,has_manifestation,"Hypophosphatemic Rickets, X-Linked Recessive"
+Bone pain,has_manifestation,Hypophosphatemic Rickets And Hyperparathyroidism
+Bone pain,has_manifestation,"HYPOPHOSPHATEMIC RICKETS WITH HYPERCALCIURIA, HEREDITARY"
+Bone pain,has_manifestation,"HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE III"
+Bone pain,has_manifestation,Dent disease 1
+Bone pain,has_manifestation,PAGET DISEASE OF BONE 6
+Bone pain,has_manifestation,"Necrotizing Encephalomyelopathy, Subacute, of Leigh, Adult"
+Bone pain,has_manifestation,"Vitamin D Hydroxylation-Deficient Rickets, Type 1B"
+Bone pain,has_manifestation,PAGET DISEASE OF BONE 3
+Bone pain,has_manifestation,PAGET DISEASE OF BONE 4
+Bone pain,has_manifestation,Nakajo syndrome
+Bone pain,has_manifestation,"Primary hyperoxaluria, type I"
+Bone pain,has_manifestation,"Vitamin D-dependent rickets, type 1"
+Bone pain,has_manifestation,"Vitamin D-Dependent Rickets, Type 2A"
+Bone pain,has_manifestation,Autosomal dominant hypophosphatemic rickets
+Bone pain,has_manifestation,"PAGET DISEASE OF BONE 2, EARLY-ONSET"
+Bone pain,has_member,Osteonecrosis (SMQ)
+Sore eye,mapped_from,Eye pain
+Sore eye,has_member,Glaucoma (SMQ)
+Sore eye,classifies,Eye pain
+Sore skin,possibly_equivalent_to,(Skin and subcutaneous tissue disease NOS) or (sore skin)
+Sore Throat,subset_includes_concept,Patient Problem Codes FDA CDRH
+Sore Throat,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+Sore Throat,inverse_isa,Finding of head and neck region
+Sore Throat,inverse_isa,Throat symptom
+Sore Throat,inverse_isa,disorder of throat
+Sore Throat,mapped_from,Common Cold
+Sore Throat,mapped_from,Pharyngitis
+Sore Throat,mapped_from,Acute pharyngitis
+Sore Throat,mapped_from,Other diseases of pharynx
+Sore Throat,mapped_from,Throat symptom/complaint
+Sore Throat,mapped_from,Other respiratory system diseases
+Sore Throat,cdrh_parent_of,Patient Problem Codes FDA CDRH
+Sore Throat,possibly_equivalent_to,Throat symptoms (& sore throat symptom)
+Sore Throat,possibly_equivalent_to,Pharyngitis
+Sore Throat,possibly_equivalent_to,Throat: [acute pharyngitis] or [sore NOS (& viral)] or [infection]
+Sore Throat,possibly_equivalent_to,Throat: [acute pharyngitis] or [infection NOS] or [sore]
+Sore Throat,has_associated_finding,Has a sore throat
+Sore Throat,has_associated_finding,No sore throat
+Sore Throat,has_member,"Oropharyngeal conditions (excl neoplasms, infections and allergies) (SMQ)"
+Sore Throat,classifies,Oropharyngeal discomfort
+Sore Throat,classifies,Other upper respiratory disease
+Sore Throat,classifies,Oropharyngeal pain
+Sore Throat,related_to,Tonsillitis
+Sore Throat,related_to,disorder of throat
+Sore Throat,used_for,Pharyngitis
+Sore to touch,inverse_isa,Physical findings
+Sore to touch,inverse_isa,Pain
+Sore to touch,has_definitional_manifestation,tender foliate papillae of tongue
+Sore to touch,has_definitional_manifestation,tender filiform papillae of tongue
+Sore to touch,has_definitional_manifestation,tender fungiform papillae of tongue
+Sore to touch,has_definitional_manifestation,tender circumvallate papillae of tongue
+Sore to touch,associated_with,solitary tender mass of breast with fixation
+Sore to touch,associated_with,puncture of back of head with surrounding tenderness
+Sore to touch,associated_with,iv catheter site tender
+Sore to touch,associated_with,"enlarged, tender axillary lymph nodes bilaterally"
+Sore to touch,associated_with,"enlarged, tender right epitrochlear lymph node"
+Sore to touch,associated_with,puncture of right shoulder with surrounding tenderness
+Sore to touch,associated_with,puncture of right mid back with tenderness
+Sore to touch,associated_with,puncture of right elbow with surrounding tenderness
+Sore to touch,associated_with,puncture of right thigh with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender left axillary lymph node"
+Sore to touch,associated_with,puncture of right hip with surrounding tenderness
+Sore to touch,associated_with,puncture of right hand with surrounding tenderness
+Sore to touch,associated_with,tenderness of torus tubarius
+Sore to touch,associated_with,"enlarged, tender femoral lymph nodes bilaterally"
+Sore to touch,associated_with,vagino-perineal fistula surrounding tissue tender
+Sore to touch,associated_with,tender lesion of buccal mucosa
+Sore to touch,associated_with,puncture of left lower back with surrounding tenderness
+Sore to touch,associated_with,puncture of face with surrounding tenderness
+Sore to touch,associated_with,puncture of right lower back with surrounding tenderness
+Sore to touch,associated_with,tender mass of left shoulder
+Sore to touch,associated_with,puncture of scalp with surrounding tenderness
+Sore to touch,associated_with,puncture of right wrist with surrounding tenderness
+Sore to touch,associated_with,tenderness at stump of foot amputation
+Sore to touch,associated_with,puncture of right upper paraspinal region with tenderness
+Sore to touch,associated_with,puncture of left mid back with surrounding tenderness
+Sore to touch,associated_with,puncture of right upper back with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender right femoral lymph node"
+Sore to touch,associated_with,tenderness of left torus tubarius
+Sore to touch,associated_with,puncture of right forearm with surrounding tenderness
+Sore to touch,associated_with,tender mass of right shoulder
+Sore to touch,associated_with,tenderness of buccal mucosa
+Sore to touch,associated_with,puncture of right ear with surrounding tenderness
+Sore to touch,associated_with,puncture of right mid paraspinal region with surrounding tenderness
+Sore to touch,associated_with,puncture of right foot with surrounding tenderness
+Sore to touch,associated_with,abdomen hernia epigastric tender
+Sore to touch,associated_with,"enlarged, tender epitrochlear lymph nodes bilaterally"
+Sore to touch,associated_with,shoulder mass tender bilateral (___cm)
+Sore to touch,associated_with,puncture of anus with tenderness
+Sore to touch,associated_with,puncture of finger with surrounding tenderness
+Sore to touch,associated_with,puncture of right knee with surrounding tenderness
+Sore to touch,associated_with,puncture of right side of neck with surrounding tenderness
+Sore to touch,associated_with,puncture of left upper back with surrounding tenderness
+Sore to touch,associated_with,puncture of right buttock with surrounding tenderness
+Sore to touch,associated_with,puncture of right lower paraspinal region with surrounding tenderness
+Sore to touch,associated_with,tenderness of right torus tubarius
+Sore to touch,associated_with,puncture of abdominal wall with surrounding tenderness
+Sore to touch,associated_with,puncture of right lower leg with surrounding tenderness
+Sore to touch,associated_with,tenderness of torus tubarius on both sides
+Sore to touch,associated_with,puncture of right arm with surrounding tenderness
+Sore to touch,associated_with,tender mass of shoulder
+Sore to touch,associated_with,skenes gland tenderness
+Sore to touch,associated_with,puncture of forehead with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender left epitrochlear lymph node"
+Sore to touch,associated_with,puncture of anterior neck with surrounding tenderness
+Sore to touch,associated_with,puncture of right ankle with surrounding tenderness
+Sore to touch,associated_with,puncture of right temporomandibular joint with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender left femoral lymph node"
+Sore to touch,associated_with,puncture of right pelvic region with surrounding tenderness
+Sore to touch,associated_with,puncture of sternum with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender left cervical lymph node"
+Sore to touch,associated_with,tender mass of buccal mucosa
+Sore to touch,associated_with,puncture of right anterior chest with tenderness
+Sore to touch,associated_with,puncture of left hand with surrounding tenderness
+Sore to touch,associated_with,puncture of top of head with surrounding tenderness
+Sore to touch,associated_with,puncture of left lateral chest with tenderness
+Sore to touch,associated_with,multiple tender nodules of thyroid
+Sore to touch,associated_with,tender mass of left hand
+Sore to touch,associated_with,"enlarged, tender postauricular lymph nodes bilaterally"
+Sore to touch,associated_with,"enlarged, tender suboccipital lymph nodes bilaterally"
+Sore to touch,associated_with,tender lesion of larynx
+Sore to touch,associated_with,puncture of left thigh with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender supraclavicular lymph nodes bilaterally"
+Sore to touch,associated_with,"enlarged, tender right inguinal lymph node"
+Sore to touch,associated_with,"enlarged, tender preauricular lymph nodes bilaterally"
+Sore to touch,associated_with,puncture of temple with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender right cervical lymph node"
+Sore to touch,associated_with,tender mass of toe
+Sore to touch,associated_with,"enlarged, tender submental lymph node"
+Sore to touch,associated_with,"enlarged, tender left submandibular lymph node"
+Sore to touch,associated_with,puncture of perineum with tenderness
+Sore to touch,associated_with,solitary tender mass of breast
+Sore to touch,associated_with,"enlarged, tender popliteal lymph nodes bilaterally"
+Sore to touch,associated_with,tender mass of toe of right foot
+Sore to touch,associated_with,"enlarged, tender left inguinal lymph node"
+Sore to touch,associated_with,puncture of posterior neck with surrounding tenderness
+Sore to touch,associated_with,tender swelling of parotid gland
+Sore to touch,associated_with,tenderness at stump wound of left ankle amputation
+Sore to touch,associated_with,tender swelling of left parotid gland
+Sore to touch,associated_with,"enlarged, tender left suboccipital lymph node"
+Sore to touch,associated_with,tender mass of toe of left foot
+Sore to touch,associated_with,tender lesion of pharynx
+Sore to touch,associated_with,puncture of left arm with surrounding tenderness
+Sore to touch,associated_with,tender mass of foot
+Sore to touch,associated_with,puncture of left lower leg with surrounding tenderness
+Sore to touch,associated_with,puncture of left hip with surrounding tenderness
+Sore to touch,associated_with,puncture of left temporomandibular joint with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender right suboccipital lymph node"
+Sore to touch,associated_with,puncture of left ankle with surrounding tenderness
+Sore to touch,associated_with,puncture of toe with surrounding tenderness
+Sore to touch,associated_with,puncture of left forearm with surrounding tenderness
+Sore to touch,associated_with,puncture of left wrist with surrounding tenderness
+Sore to touch,associated_with,tender mass of right hand
+Sore to touch,associated_with,puncture of left ear with surrounding tenderness
+Sore to touch,associated_with,tender umbilical hernia
+Sore to touch,associated_with,puncture of left anterior chest with surrounding tenderness
+Sore to touch,associated_with,bartholins gland tenderness
+Sore to touch,associated_with,"enlarged, tender left preauricular lymph node"
+Sore to touch,associated_with,puncture of left foot with surrounding tenderness
+Sore to touch,associated_with,tender mass of hand
+Sore to touch,associated_with,tenderness at stump wound of right ankle amputation
+Sore to touch,associated_with,puncture of left upper paraspinal region with tenderness
+Sore to touch,associated_with,puncture with surrounding tenderness
+Sore to touch,associated_with,single tender nodule of thyroid
+Sore to touch,associated_with,puncture of left lower paraspinal region with tenderness
+Sore to touch,associated_with,"enlarged, tender right preauricular lymph node"
+Sore to touch,associated_with,"enlarged, tender left postauricular lymph node"
+Sore to touch,associated_with,"enlarged, tender right axillary lymph node"
+Sore to touch,associated_with,"enlarged, tender submandibular lymph nodes bilaterally"
+Sore to touch,associated_with,"enlarged, tender right popliteal lymph node"
+Sore to touch,associated_with,"enlarged, tender right postauricular lymph node"
+Sore to touch,associated_with,"enlarged, tender left popliteal lymph node"
+Sore to touch,associated_with,puncture of left shoulder with surrounding tenderness
+Sore to touch,associated_with,puncture of left side of neck with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender right supraclavicular lymph node"
+Sore to touch,associated_with,puncture of genitalia with tenderness
+Sore to touch,associated_with,puncture of right lateral chest with tenderness
+Sore to touch,associated_with,tender swelling of right parotid gland
+Sore to touch,associated_with,"enlarged, tender right submandibular lymph node"
+Sore to touch,associated_with,"enlarged, tender left supraclavicular lymph node"
+Sore to touch,associated_with,puncture of left elbow with surrounding tenderness
+Sore to touch,associated_with,puncture of left pelvic region with surrounding tenderness
+Sore to touch,associated_with,puncture of left buttock with surrounding tenderness
+Sore to touch,associated_with,tender swelling of both parotid glands
+Sore to touch,associated_with,puncture of left knee with surrounding tenderness
+Sore to touch,associated_with,"enlarged, tender cervical lymph nodes bilaterally"
+Sore to touch,associated_with,tender femoral hernia
+Sore to touch,associated_with,"enlarged, tender inguinal lymph nodes bilaterally"
+Sore to touch,has_associated_finding,Tenderness absent
+Pain in spine,inverse_isa,Back Pain
+Pain in spine,has_member,Osteonecrosis (SMQ)
+Pain in spine,has_member,Arthritis (SMQ)
+Stabbing pain,inverse_isa,Pain
+Stabbing pain,inverse_isa,Pain character
+Stabbing pain,associated_with,knifelike flank pain
+Stable angina,subset_includes_concept,CDISC SDTM Terminology
+Stable angina,subset_includes_concept,CDISC SDTM Acute Coronary Syndrome Presentation Category Terminology
+Stable angina,subset_includes_concept,CDISC SDTM Coronary Artery Disease Presentation Terminology
+Stable angina,subset_includes_concept,Clinical Data Interchange Standards Consortium Terminology
+Stable angina,inverse_isa,Angina Pectoris
+Stable angina,has_member,Other ischaemic heart disease (SMQ)
+Stable angina,classifies,Angina Pectoris
+First degree burn,subset_includes_concept,Pediatric Terminology
+First degree burn,subset_includes_concept,FDA Center For Devices and Radiological Health Terminology
+First degree burn,subset_includes_concept,Pediatric Adverse Events Terminology
+First degree burn,subset_includes_concept,Patient Problem Codes FDA CDRH
+First degree burn,inverse_isa,Burn injury
+First degree burn,nichd_parent_of,Burn injury
+First degree burn,cdrh_parent_of,Burn injury
+First degree burn,has_member,Accidents and injuries (SMQ)
+First degree burn,classifies,Burn injury
+First degree burn,classifies,Thermal burn
+Suprapubic pain,inverse_isa,Site of abdominal pain
+Suprapubic pain,has_member,Gastrointestinal nonspecific symptoms and therapeutic procedures (SMQ)
+Suprapubic pain,has_member,Retroperitoneal fibrosis (SMQ)
+Suprapubic pain,classifies,Lower abdominal pain
+Tenalgia,has_member,Tendinopathies and ligament disorders (SMQ)
+Tension Headache,subset_includes_concept,Pediatric Terminology
+Tension Headache,subset_includes_concept,Pediatric Adverse Events Terminology
+Tension Headache,inverse_isa,Headache
+Tension Headache,inverse_isa,Headache Disorders
+Tension Headache,nichd_parent_of,Headache
+Tension Headache,possibly_equivalent_to,Headache: [muscular] or [tension]
+Tension Headache,classifies,Other anxiety; somatoform; dissociative; and personality disorders
+Tension Headache,classifies,Anxiety; somatoform; dissociative; and personality disorders
+Tension Headache,used_for,Muscular headache
+Tension Headache,primary_mapped_from,Chronic post-traumatic headache
+Pain in testicle,inverse_isa,Pain
+Pain in testicle,inverse_isa,testicular symptoms
+Pain in testicle,mapped_from,Other specified disorders of male genital organs
+Pain in testicle,mapped_from,Pain in testis/scrotum
+Pain in testicle,possibly_equivalent_to,(Pain in testis) or (other male genital disorders NOS)
+Throbbing Headache,inverse_isa,Headache character - finding
+Throbbing Headache,classifies,Headache
+Painful teething,classifies,Teething syndrome
+Trigeminal Neuralgia,inverse_isa,Abnormality of the fifth cranial nerve
+Trigeminal Neuralgia,inverse_isa,"cerebellar, brainstem and cranial nerve disorders"
+Trigeminal Neuralgia,has_manifestation,Facial Hemiatrophy
+Trigeminal Neuralgia,has_associated_finding,Family history of trigeminal neuralgia
+Trigeminal Neuralgia,has_associated_finding,H/O: trigeminal neuralgia
+Trigeminal Neuralgia,has_member,Neurological Disorders (PsycINFO Subcluster Term)
+Trigeminal Neuralgia,has_member,Demyelination (SMQ)
+Trigeminal Neuralgia,has_member,Physical & Psychosomatic Disorders (PsycINFO Subcluster Term)
+Trigeminal Neuralgia,classifies,Other disorders of nervous system
+Trigeminal Neuralgia,classifies,Peripheral Neuropathy
+Trigeminal Neuralgia,related_to,Jaw injury
+Trigeminal Neuralgia,related_to,Pain
+Trigeminal Neuralgia,related_to,Peripheral Neuropathy
+Trigeminal Neuralgia,related_to,Facial Injuries and Disorders
+Trigeminal Neuralgia,related_to,nervous system disorder
+Vaginospasm,inverse_isa,Female Reproductive System Finding
+Vaginospasm,inverse_isa,Female sexual dysfunction
+Vaginospasm,inverse_isa,gynecologic pain
+Vaginospasm,inverse_isa,Genitourinary Signs and Symptoms
+Vaginospasm,mapped_from,Painful intercourse female
+Vaginospasm,possibly_equivalent_to,Vaginismus due to non-psychogenic cause
+Vaginospasm,classifies,Genito-pelvic pain/penetration disorder
+Vaginospasm,classifies,Female genital pain and other symptoms
+Vaginospasm,classifies,Genital disease female other
+Vaginospasm,classifies,Female Genital Diseases
+Visual Analog Pain Scale,inverse_isa,Pain Assessment Tool
+Vulvodynia,inverse_isa,Pain
+Vulvodynia,inverse_isa,gynecologic pain
+Vulvodynia,inverse_isa,vulvar itching or burning
+Vulvodynia,inverse_isa,Female genital organ symptoms
+Vulvodynia,classifies,Vulvovaginal pain
+Vulvodynia,classifies,Female Genital Diseases
+Vulvodynia,classifies,Genital disease female other
